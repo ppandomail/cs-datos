@@ -1,0 +1,179 @@
+Anio;Edad;Actor;Sexo;Film;nominaciones;rating;duracion;genero
+1928;44;Emil Jannings;M;The Last Command;2;8;88;Drama
+1928;22;Laura Gainor (aka Janet Gaynor);F;Sunrise;5;7.8;110;Drama
+1929;38;Warner Baxter;M;In Old Arizona;5;5.8;95;Romance
+1929;37;Mary Pickford;F;Coquette;;7.3;76;Drama
+1930;62;George Arliss;M;Disraeli;3;6.5;90;Biography
+1930;30;Norma Shearer;F;The Divorcee;4;6.9;84;Romance
+1931;53;Lionel Barrymore;M;A Free Soul;3;6.7;93;Crime
+1931;62;Marie Dressler;F;Min and Bill;;7.4;69;Comedy
+1932;41;W. Beery(47)/F. March(35)*;M;The Champ/Dr. Jekyll and Mr. Hyde;4;7.3;86;Drama
+1932;32;Helen Hayes;F;Sin of Madelon;;6.8;75;Drama
+1933;34;Charles Laughton;M;Private Life Henry VIII;2;7.3;97;Biography
+1933;26;Katherine Hepburn;F;Morning Glory;;6.6;74;Drama
+1934;33;Clarke Gable;M;It Happened One Night;5;8.2;105;Comedy
+1934;31;Collette Colbert;F;It Happened One Night;5;8.2;105;Comedy
+1935;49;Victor McLagen;M;The Informer;6;7.6;91;Drama
+1935;27;Bette Davis;F;Dangerous;;7.2;79;Drama
+1936;41;Paul Muni;M;Story of Louis Pasteur;4;7.4;86;Biography
+1936;26;Luise Rainer;F;The Great Zeigfield;7;6.8;176;Biography
+1937;37;Spencer Tracy;M;Captains Courageous;4;8;117;Adventure
+1937;27;Luise Rainer;F;The Good Earth;5;7.8;138;Drama
+1938;38;Spencer Tracy;M;Boys Town;5;7.3;96;Biography
+1938;30;Bette Davis;F;Jezebel;5;7.6;104;Drama
+1939;34;Robert Donat;M;Goodbye. Mr. Chips;7;7.7;114;Drama
+1939;26;Vivien Leigh;F;Gone With The Wind;13;8.2;238;Drama
+1940;32;James Sterart;M;Philadelphia Story;6;8.1;112;Comedy
+1940;29;Ginger Rogers;F;Kitty;5;7.1;108;Drama
+1941;40;Gary Cooper;M;Sergeant York;11;7.8;134;Biography
+1941;24;Joan Fontaine;F;Suspicion;3;7.5;99;Mystery
+1942;43;James Cagney;M;Yankee Doodle Dandy;8;7.8;126;Biography
+1942;39;Greer Garson;F;Mrs Miniver;12;7.6;134;Drama
+1943;48;Paul Lukas;M;Watch on the Rhine;4;7.4;114;Drama
+1943;24;Jennifer Jones;F;The Song of Bernadette;12;7.7;156;Biography
+1944;41;Bing Crosby;M;Going My Way;10;7.3;126;Comedy
+1944;29;Ingrid Bergman;F;Gaslight;7;7.9;114;Crime
+1945;38;Ray Milland;M;The Lost Weekend;7;8;101;Drama
+1945;37;Joan Crawford;F;Mildred Pierce;6;8;111;Crime
+1946;49;Fredric March;M;Best Years of Our Lives;8;8.2;172;Drama
+1946;30;Olivia de Havilland;F;To Each His Own;2;7.8;122;Drama
+1947;56;Ronald Coleman;M;A Double Life;4;7.1;104;Crime
+1947;34;Loretta Young;F;The Farmer's Daughter;2;7.4;97;Drama
+1948;41;Laurence Olivier;M;Hamlet;7;7.9;155;Drama
+1948;34;Jane Wyman;F;Johnny Belinda;12;7.8;102;Drama
+1949;38;Broderick Crawford;M;All the King's Men;7;7.6;110;Drama
+1949;33;Olivia de Havilland;F;The Heiress;8;8.3;115;Drama
+1950;38;Jose Ferrer;M;Cyrano Bergerac;;7.6;112;Drama
+1950;28;Judy Holliday;F;Born Yesterday;5;7.6;103;Comedy
+1951;52;Humphrey Bogart;M;The African Queen;4;7.9;105;Adventure
+1951;38;Vivien Leigh;F;A Streetcar Named Desire;12;8.1;122;Drama
+1952;51;Gary Cooper;M;High Noon;7;8.1;85;Action
+1952;45;Shirley Booth;F;Come Back. Little Sheba;3;7.8;99;Drama
+1953;35;William Holden;M;Stalag 17;3;8.1;120;Comedy
+1953;24;Audrey Hepburn;F;Roman Holiday;10;8.1;118;Comedy
+1954;30;Marlon Brando;M;On The Waterfront;12;8.3;108;Crime
+1954;26;Grace Kelly;F;The Country Girl;7;7.3;104;Drama
+1955;38;Ernist Borgnine;M;Marty;8;7.7;90;Drama
+1955;47;Anna Magnani;F;The Rose Tattoo;8;7.2;117;Comedy
+1956;36;Yul Brenner;M;The King And I;9;7.5;133;Biography
+1956;41;Ingrid Bergman;F;Anastasia;2;7.2;105;Biography
+1957;43;Alec Guiness;M;Bridge on River Kwai;8;8.2;161;Adventure
+1957;27;Joanne Woodward;F;Three Faces of Eve;;7.2;91;Drama
+1958;48;David Niven;M;Separate Tables;7;7.6;100;Drama
+1958;39;Susan Hayward;F;I Want To Live!;6;7.5;120;Biography
+1959;35;Charlton Heston;M;Ben-Hur;12;8.1;212;Adventure
+1959;38;Simone Signoret;F;Room at the Top;6;7.7;117;Drama
+1960;47;Burt Lancaster;M;Elmer Gantry;5;7.9;146;Drama
+1960;28;Elizabeth Taylor;F;Butterfield 8;2;6.4;109;Drama
+1961;31;Maximilian Schell;M;Judgment at Nuremberg;11;8.3;186;Drama
+1961;27;Sophia Loren;F;Two Women;;7.9;100;Drama
+1962;46;Gregory Peck;M;To Kill a Mockingbird;8;8.4;129;Drama
+1962;31;Anne Bancroft;F;The Miracle Worker;5;8.1;106;Biography
+1963;39;Sidney Pointier;M;Lilies of the Field;5;7.7;94;Drama
+1963;37;Patricia Neal;F;Hud;7;7.9;112;Drama
+1964;56;Rex Harrison;M;My Fair Lady;12;7.9;170;Drama
+1964;30;Julie Andrews;F;Mary Poppins;13;7.8;139;Comedy
+1965;41;Lee Marvin;M;Act Ballou;5;6.9;97;Comedy
+1965;24;Julie Christie;F;Darling;5;7.2;128;Drama
+1966;44;Paul Scofield;M;A Man For All Seasons;8;7.9;120;Biography
+1966;34;Elizabeth Taylor;F;Who's Afraid of Virginia Woolf?;13;8.1;131;Drama
+1967;42;Rod Steiger;M;In the Heat of The Night;7;8;109;Crime
+1967;60;Katherine Hepburn;F;Guess Who's Coming To Dinner;10;7.8;108;Comedy
+1968;43;Cliff Robertson;M;Charly;;7.1;103;Drama
+1968;44;K. Hepburn(61)/B. Streisand(26)*;F;The Lion in Winter/Funny Girl;7;8.2;134;Biography
+1969;62;John Wayne;M;True Grit;2;7.7;110;Adventure
+1969;35;Maggie Smith;F;The Prime of Miss Jean Brodie;2;7.7;116;Drama
+1970;43;George C Scott;M;Patton;10;8;172;Biography
+1970;34;Glenda Jackson;F;Women in Love;4;7.6;131;Drama
+1971;40;Gene Hackman;M;The French Connection;8;7.8;104;Action
+1971;34;Jane Fonda;F;Klute;2;7.2;114;Crime
+1972;48;Marlon Brando;M;The Godfather;11;9.2;175;Crime
+1972;26;Liza Minnelli;F;Cabaret;10;7.9;124;Drama
+1973;48;Jack Lemmon;M;Save The Tiger;3;6.9;100;Drama
+1973;37;Glenda Jackson;F;A Touch of Class;5;6.5;106;Comedy
+1974;56;Art Carney;M;Harry and Tonto;2;7.5;115;Adventure
+1974;42;Ellen Burstyn;F;Alice Doesn't Live Here Anymore;3;7.4;112;Drama
+1975;38;Jack Nicholson;M;Cuckoo's Nest;9;8.7;133;Drama
+1975;41;Louise Fletcher;F;Cuckoo's Nest;9;8.7;133;Drama
+1976;60;Peter Finch;M;Network;10;8.1;121;Drama
+1976;35;Faye Dunaway;F;Network;10;8.1;121;Drama
+1977;30;Richard Dreyfuss;M;The Goodbye Girl;5;7.4;111;Comedy
+1977;31;Diane Keaton;F;Annie Hall;5;8.1;93;Comedy
+1978;40;Jon Voight;M;Coming Home;8;7.3;127;Drama
+1978;41;Jane Fonda;F;Coming Home;8;7.3;127;Drama
+1979;42;Dustin Hoffman;M;Kramer vs. Kramer;9;7.8;105;Drama
+1979;33;Sally Field;F;Norma Rae;4;7.4;114;Drama
+1980;37;Robert De Niro;M;Raging Bull;8;8.3;129;Biography
+1980;30;Sissy Spacek;F;Coal Miner's Daughter;7;7.5;124;Biography
+1981;76;Henry Fonda;M;On Golden Pond;10;7.7;109;Drama
+1981;74;Katherine Hepburn;F;On Golden Pond;10;7.7;109;Drama
+1982;39;Ben Kingsly;M;Gandhi;11;8.1;191;Biography
+1982;33;Meryl Streep;F;Sophie's Choice;5;7.7;150;Drama
+1983;52;Robert Duvall;M;Tender Mercies;5;7.5;92;Drama
+1983;49;Shirley MacLaine;F;Terms of Endearment;11;7.4;132;Comedy
+1984;45;F. Murray Abraham;M;Amadeus;11;8.3;160;Biography
+1984;38;Sally Field;F;Places in the Heart;7;7.3;111;Drama
+1985;35;William Hurt;M;Kiss of the Spider;4;7.4;120;Drama
+1985;61;Geraldine Page;F;Trip to Bountiful;2;7.6;108;Drama
+1986;61;Paul Newman;M;The Colour of Money;4;7;119;Drama
+1986;21;Marlee Matlin;F;Children of a Lesser God;5;7.2;119;Drama
+1987;43;Michael Douglas;M;Wall Street;;7.4;126;Crime
+1987;41;Cher;F;Moonstruck;6;7.1;102;Comedy
+1988;51;Dustin Hoffman;M;Rain Man;8;8;133;Drama
+1988;26;Jodie Foster;F;The Accused;;7.1;111;Crime
+1989;32;Daniel Day-Lewis;M;My Left Foot;5;7.9;103;Biography
+1989;81;Jessica Tandy;F;Driving Miss Daisy;9;7.4;99;Comedy
+1990;42;Jeremy Irons;M;Reversal of Fortune;3;7.3;111;Biography
+1990;42;Kathy Bates;F;Misery;;7.8;107;Thriller
+1991;54;Anthony Hopkins;M;Silence of the Lambs;7;8.6;118;Crime
+1991;29;Jodie Foster;F;The Silence of the Lambs;7;8.6;118;Crime
+1992;52;Al Pacino;M;Scent of a Woman;4;8;156;Drama
+1992;33;Emma Thompson;F;Howards End;9;7.5;140;Drama
+1993;37;Tom Hanks;M;Philadelphia;5;7.7;125;Drama
+1993;35;Holly Hunter;F;The Piano;8;7.6;121;Drama
+1994;38;Tom Hanks;M;Forrest Gump;13;8.8;142;Drama
+1994;45;Jessica Lang;F;Blue Sky;;6.4;101;Drama
+1995;31;Nicolas Cage;M;Leaving Las Vegas;4;7.6;111;Drama
+1995;49;Susan Sarandon;F;Dead Man Walking;4;7.6;122;Crime
+1996;45;Geoffry Rush;M;Shine;7;7.7;105;Biography
+1996;39;Frances McDormand;F;Fargo;7;8.2;98;Crime
+1997;60;Jack Nicholson;M;As Good As It Gets;7;7.7;139;Comedy
+1997;32;Helen Hunt;F;As Good As It Gets;7;7.7;139;Comedy
+1998;46;Robert Benigni;M;Life is Beautiful;7;8.6;116;Comedy
+1998;26;Gwyneth Paltrow;F;Shakespeare In Love;13;7.2;123;Comedy
+1999;40;Kevin Spacey;M;American Beauty;8;8.4;122;Drama
+1999;25;Hillary Swank;F;Boys Don't Cry;2;7.6;118;Biography
+2000;36;Russel Crowe;M;Galdiator;12;8.5;155;Action
+2000;33;Julia Roberts;F;Erin Brockovich;5;7.3;131;Biography
+2001;47;Denzel Washington;M;Training Day;2;7.7;122;Crime
+2001;35;Halle Berry;F;Monster's Ball;2;7.1;111;Drama
+2002;29;Adrien Brody;M;The Pianist;7;8.5;150;Biography
+2002;35;Nicole Kidman;F;The Hours;9;7.6;114;Drama
+2003;43;Sean Penn;M;Mystic River;6;8;138;Crime
+2003;28;Charlize Theron;F;Monster;;7.3;109;Biography
+2004;37;Jamie Foxx;M;Ray;6;7.7;152;Biography
+2004;30;Hillary Swank;F;Million Dollar Baby;7;8.1;132;Drama
+2005;38;Philip Seymour Hoffman;M;Capote;5;7.4;114;Biography
+2005;29;Reese Witherspoon;F;Walk The Line;5;7.9;136;Biography
+2006;45;Forest Whitaker;M;Last King of Scotland;;7.7;121;Biography
+2006;61;Helen Mirren;F;The Queen;6;7.4;103;Biography
+2007;51;Daniel Day-Lewis;M;There Will Be Blood;8;8.1;158;Drama
+2007;33;Marion Cotillard;F;La Vie en Rose;3;7.7;140;Biography
+2008;48;Sean Penn;M;Milk;8;7.6;128;Biography
+2008;33;Kate Winslet;F;The Reader;5;7.6;124;Drama
+2009;60;Jeff Bridges;M;Crazy Heart;3;7.3;112;Drama
+2009;45;Sandra Bullock;F;The Blind Side;2;7.7;129;Biography
+2010;50;Colin Firth;M;The King's Speech;12;8;118;Biography
+2010;29;Natalie Portman;F;Black Swan;5;8;108;Drama
+2011;39;Jean Dujardin;M;The Artist;10;8;100;Comedy
+2011;62;Meryl Streep;F;The Iron Lady;2;6.4;105;Biography
+2012;55;Daniel Day-Lewis;M;Lincoln;12;7.4;150;Biography
+2012;22;Jennifer Lawrence;F;Silver Linings Playbook;8;7.8;122;Comedy
+2013;44;Matthew McConaughey;M;Dallas Buyers Club;6;8;117;Biography
+2013;44;Cate Blanchett;F;Blue Jasmine;3;7.3;98;Drama
+2014;33;Eddie Redmayne;M;The Theory of Everything;5;7.7;123;Biography
+2014;54;Julianne Moore;F;Still Alice;;7.5;101;Drama
+2015;41;Leonardo DiCaprio;M;The Revenant;12;7.9;156;Drama
+2015;26;Brie Larson;F;Room;4;8.2;118;Drama
+2016;41;Casey Affleck;M;Manchester by the Sea;6;8.8;137;Drama
+2016;28;Emma Stone;F;La La Land;11;8.6;128;Drama

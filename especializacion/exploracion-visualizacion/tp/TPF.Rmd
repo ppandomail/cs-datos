@@ -1,0 +1,582 @@
+---
+title: "Trabajo Práctico Final"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    code_folding: show
+    df_print: paged
+    theme: united
+    code_download: true
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{css echo=FALSE}
+.badCode {
+background-color: white;
+}
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      warning = FALSE, 
+                      message = FALSE, 
+                      eval = TRUE, 
+                      fig.width = 6, 
+                      fig.height = 4, 
+                      fig.align = "center", 
+                      class.source = "badCode") 
+options(width = 90)
+```
+
+<br> <br>
+
+|                 |                                              |
+|-----------------|----------------------------------------------|
+| **Universidad** | Universidad Nacional del Oeste               |
+| **Carrera**     | Esp. en Ciencia de Datos                     |
+| **Materia**     | Exploración y Visualización de Datos (07101) |
+| **Profesor**    | Mg. Diego Molina                             |
+| **Alumno**      | Mg. Ing. Pablo Pandolfo                      |
+| **Fecha**       | Junio 2025                                   |
+|                 |                                              |
+
+<br> <br>
+
+## Librerias usadas
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(ggthemes)
+library(hrbrthemes)
+library(plotly)
+library(tidyr)
+library(tidyverse)
+library(scales)
+library(mice)
+```
+
+<br> <br>
+
+## Importación de la base de datos
+
+```{r}
+# Borro ambiente de trabajo
+rm(list = ls())
+# Seteo directorio de trabajo
+setwd("/Users/ppando/Materias/data/materias/exploracion-visualizacion/tp")
+# Cargo datos del archivo
+datos <- read.csv("googleplaystore.csv", sep = ",")
+# Verifico cantidad de casos
+nrow(datos) > 0
+# Muestro los primeros 6 casos
+head(datos)                                                                 
+```
+
+<br> <br>
+
+## 1. Acondicionamiento de la base de datos
+
+<br>
+
+### a. Verificar si hay filas duplicadas, y si es así eliminarlas
+
+```{r}
+# Identifico filas duplicadas
+duplicados <- duplicated(datos)
+# Verifico existencia de filas duplicadas
+sum(duplicados) > 0
+# Identifico cuales son los duplicados
+filter(datos, duplicados)
+# Nuevo data frame con datos únicos
+datos <- distinct(datos)
+# Verifico sin duplicados
+sum(duplicated(datos)) == 0      
+```
+
+<br> <br>
+
+### b. Detectar datos atípicos, analizarlos, y si es pertinente eliminarlos
+
+<br>
+
+```{r}
+# Detecto valores atípicos de Rating mediante técnica de diagrama de caja
+ggplot(datos, aes(Rating)) + geom_boxplot() 
+```
+
+<br>
+
+```{r}
+# Filtro el caso con rating 19, atípico con datos NA
+datos <- datos %>% filter(Rating != 19)
+# Valido datos sin caso con rating 19
+nrow(datos %>% filter(Rating == 19)) == 0  
+```
+
+<br>
+
+```{r}
+# Convierto variable Reviews a numérico
+datos$Reviews = as.numeric(datos$Reviews)
+# Detecto valores atípicos de Reviews mediante técnica de diagrama de caja
+ggplot(datos, aes(Reviews)) + geom_boxplot()
+```
+
+<br>
+
+```{r}
+# Saco posfijo "M" y convierto a numérico
+datos$Size = ifelse(grepl("M", datos$Size), round(as.numeric(sub("M", "", datos$Size)), 2), datos$Size)
+# Saco posfijo "k", convierto a numérico y ajusto valor a Megabyte 
+datos$Size = ifelse(grepl("k", datos$Size), round(as.numeric(sub("k", "", datos$Size)) / 1024, 2), datos$Size)
+# Pongo 0 en lugar de "Varies with device"
+datos$Size = as.numeric(sub("Varies with device", "0", datos$Size))
+# Detecto valores atípicos de Size mediante técnica de diagrama de caja
+ggplot(datos, aes(Size)) + geom_boxplot() 
+```
+
+<br>
+
+```{r}
+# Saco el sufijo '+' en todas las observaciones de la variable Installs
+datos$Installs = sub("[+]", "", datos$Installs)
+# Saco el sufijo ',' en todas las observaciones de la variable Installs y convierto a numérico
+datos$Installs = as.numeric(gsub("[,]", "", datos$Installs)) 
+# Detecto valores atípicos de Installs mediante técnica de diagrama de caja
+ggplot(datos, aes(Installs)) + geom_boxplot() 
+```
+
+<br>
+
+```{r}
+# Saco el prefijo '$' en todas las observaciones de la variable Price y convierto a numérico
+datos$Price = as.numeric(sub("[$]", "", datos$Price)) 
+# Detecto valores atípicos de Price mediante técnica de diagrama de caja
+ggplot(datos, aes(Price)) + geom_boxplot() 
+```
+
+<br>
+
+::: {style="color: black; background-color: lightgray"}
+**Decido no eliminar mas datos, ya que puedo provocar pérdida de
+información valiosa**
+:::
+
+<br> <br>
+
+### c. Verificar los tipos de variables, y si es necesario modificarlos
+
+<br>
+
+```{r}
+# Muestro la estructura de los datos
+str(datos)
+```
+
+::: {style="color: black; background-color: lightgray"}
+-   **cualitativas (categóricas)** = {App, Category, Types,
+    Content.Rating, Genres, Last.Updated, Current.Ver, Android.Ver}
+
+-   **cuantitativas (numéricas)** = {Rating, Reviews, Size, Installs,
+    Price}
+:::
+
+<br> <br>
+
+### d. Agrupar las categorías que consideres necesarias
+
+<br>
+
+```{r}
+# Declaro a determinadas variables cualitativas como factor, para poder reconocer categorias
+datos$Category <- as.factor(datos$Category)
+datos$Type <- as.factor(datos$Type)
+datos$Content.Rating <- as.factor(datos$Content.Rating)
+datos$Genres <- as.factor(datos$Genres)
+```
+
+<br> <br>
+
+## 2. Análisis descriptivo
+
+<br>
+
+### a. Calcular el promedio, desvío, mediana, y cuartiles para las variables numéricas (cuantitativas) por categoría. Nota: si la variable tiene un rango muy amplio separar por grupo y realizar estos cálculos dentro de cada grupo
+
+<br>
+
+#### [Promedio (mean)]{.underline}
+
+<br>
+
+```{r}
+# Calculo promedios
+datos %>% 
+  group_by(Category) %>%
+  select(Rating, Reviews, Size, Installs, Price) %>% 
+  summarize(
+    promedio_rating = mean(Rating, na.rm = TRUE),
+    promedio_reviews = mean(Reviews, na.rm = TRUE),
+    promedio_size = mean(Size, na.rm = TRUE),
+    promedio_installs = mean(Installs, na.rm = TRUE),
+    promedio_precio = mean(Price, na.rm = TRUE)
+)
+```
+
+<br>
+
+#### [Desvío (sd)]{.underline}
+
+<br>
+
+```{r}
+# Calculo desvios
+datos %>% 
+  group_by(Category) %>%
+  select(Rating, Reviews, Size, Installs, Price) %>% 
+  summarize(
+    desvio_rating = sd(Rating, na.rm = TRUE),
+    desvio_reviews = sd(Reviews, na.rm = TRUE),
+    desvio_size = sd(Size, na.rm = TRUE),
+    desvio_installs = sd(Installs, na.rm = TRUE),
+    desvio_precio = sd(Price, na.rm = TRUE)
+)
+```
+
+<br>
+
+#### [Mediana (median)]{.underline}
+
+<br>
+
+```{r}
+# Calculo medianas
+datos %>% 
+  group_by(Category) %>%
+  select(Rating, Reviews, Size, Installs, Price) %>% 
+  summarize(
+    mediana_rating = median(Rating, na.rm = TRUE),
+    mediana_reviews = median(Reviews, na.rm = TRUE),
+    mediana_size = median(Size, na.rm = TRUE),
+    mediana_installs = median(Installs, na.rm = TRUE),
+    mediana_precio = median(Price, na.rm = TRUE)
+)
+```
+
+<br>
+
+#### [Quantiles (quantile)]{.underline}
+
+<br>
+
+```{r}
+# Calculo quantiles
+datos %>% 
+  group_by(Category) %>%
+  select(Rating, Reviews, Size, Installs, Price) %>% 
+  summarize(
+    quantiles_rating = quantile(Rating, probs = c(0.25, 0.50, 0.75), na.rm = TRUE),
+    quantiles_reviews = quantile(Reviews, probs = c(0.25, 0.50, 0.75), na.rm = TRUE),
+    quantiles_size = quantile(Size, probs = c(0.25, 0.50, 0.75), na.rm = TRUE),
+    quantiles_installs = quantile(Installs, probs = c(0.25, 0.50, 0.75), na.rm = TRUE),
+    quantiles_precio = quantile(Price, probs = c(0.25, 0.50, 0.75), na.rm = TRUE)
+)
+```
+
+<br>
+
+### b. Armar una función, que como argumento de entrada reciba la base datos, y como salida entregue una lista, solo para el grupo de jóvenes (Teen), en donde cada nivel sea para cada categoría. La función debe entregar lo siguiente: nombre de la categoría, un dataframe con las columnas App y Reviews, mínimo, máximo y promedio de Reviews
+
+<br>
+
+```{r}
+# Declaro e implemento la función: bd -> list
+funcion <- function(bd) {
+  lista_externa <- list()
+  categorias <- distinct(bd %>% select(Category))
+  for (cat in categorias$Category) {
+    df <- bd %>% filter(Content.Rating == 'Teen') %>% filter(Category == cat) %>% select(App, Reviews)
+    lista_interna <- list(c(cat, min(df$Reviews), max(df$Reviews), mean(df$Reviews)), df)
+    lista_externa <- append(lista_externa, lista_interna)
+  }
+  return (lista_externa)
+}
+
+# Invoco a la función y muestro la lista resultado
+print(funcion(datos))
+```
+
+<br>
+
+## 3. Análisis exploratorio y visualización
+
+### a. Comparar por año el total de actualizaciones que tuvo cada categoría
+
+<br>
+
+```{r}
+# Divido la fecha, extraigo el año de cada caso y creo una variable Year
+datos$Year <- sapply(strsplit(datos$Last.Updated, ", "), function(x) x[2])  
+
+# Cuento actualizaciones por año y categoría
+resumen <- datos %>%
+  group_by(Year, Category) %>%
+  summarise(Total_Actualizaciones = n(), .groups = "drop")
+
+ggplot(resumen, aes(x = Year, y = Total_Actualizaciones, fill = Category)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Total de Actualizaciones por Año y Categoría",
+       x = "Año", 
+       y = "Total de Actualizaciones",
+       fill = "Categoria") +
+  theme(plot.title = element_text(size = 10, face = "bold", hjust = 0.5),
+        legend.position = "bottom", 
+        legend.title = element_text(size = 8, face = "bold"), 
+        legend.text = element_text(size = 5), 
+        axis.text = element_text(size = 8, face = "bold"), 
+        axis.title = element_text(size = 8, face = "bold"))
+  
+```
+
+<br>
+
+::: {style="color: black; background-color: lightgray"}
+En 2018, hubo un aumento significativo en las actualizaciones de
+aplicaciones debido a varios factores clave como: **avances en los
+sistemas operativos, mayor enfoque en seguridad, competencia y retención
+de usuarios** y **nuevas funcionalidades**, ya que plataformas como
+Instagram introdujeron características innovadoras que impulsó una ola
+de actualizaciones en aplicaciones similares.Este aumento en la
+periodicidad de actualizaciones reflejó la evolución del mercado de
+aplicaciones y la necesidad de mantenerse relevante en un entorno
+digital en constante cambio.
+:::
+
+<br>
+
+### b. ¿Cuál fue la aplicación más cara de cada categoría?
+
+<br>
+
+```{r}
+resumen <- datos %>% 
+  group_by(Category) %>% 
+  summarise(
+    app_mas_cara = App[which.max(Price)],
+    precio_mas_caro = max(Price, na.rm = TRUE),
+    .groups = 'drop')
+resumen
+
+ggplot(resumen, aes(x = precio_mas_caro, y = app_mas_cara, fill = Category)) +
+  geom_col() +
+  labs(title = "Aplicación más cara por categoría", 
+       y = "Aplicación", 
+       x = "Precio", 
+       fill = "Categoria") +
+  theme(plot.title = element_text(size = 10, face = "bold", hjust = 0.5),
+        legend.position = "bottom", 
+        legend.title = element_text(size = 8, face = "bold"), 
+        legend.text = element_text(size = 5), 
+        axis.text = element_text(size = 3), 
+        axis.title = element_text(size = 8, face = "bold"))
+  
+```
+
+<br>
+
+### c. Analizar y comparar la distribución del rating entre las aplicaciones pagas y gratuitas
+
+<br>
+
+```{r}
+ggplot(datos, aes(x = Rating, fill = Type)) + 
+  geom_histogram(alpha = 0.5, position = "identity") +
+  labs(title = "Distribución del rating entre las aplicaciones pagas y gratuitas", 
+       y = "Cantidad", 
+       x = "Rating", 
+       fill = "Tipo de aplicación")
+  
+```
+
+<br>
+
+::: {style="color: black; background-color: lightgray"}
+Observo lo siguiente:
+
+-   **Aplicaciones gratuitas** suelen tener muchas más descargas, ya que
+    no requieren un compromiso financiero inmediato.
+
+-   **Aplicaciones pagas** tienen un volumen de descarga más reducido
+    pero pueden atraer usuarios que buscan funcionalidades específicas o
+    experiencias sin anuncios.
+:::
+
+<br>
+
+### d. Realizar una visualización que muestre las diferencias en las categorías referidas salud y las referidas al deporte, con respecto al tamaño de la aplicación, diferenciando entre aplicaciones gratuitas y pagas
+
+<br>
+
+```{r}
+# Filtro categorias relacionadas con salud y deporte
+filtrado <- datos %>% filter(Category %in% c("HEALTH_AND_FITNESS","SPORTS"))
+
+ggplot(filtrado, aes(x = Category, y = Size, fill = Type)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "Comparación del tamaño de aplicaciones de salud y deporte",
+       x = "Categoría", 
+       y = "Tamaño (MB)",
+       fill = "Tipo de aplicación")
+```
+
+<br>
+
+### e. Realizar un gráfico que muestre la evolución de la cantidad de actualizaciones por mes para el año 2018, comparando las categorías sobre salud, educación y entretenimiento
+
+<br>
+
+```{r}
+meses <- c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
+
+ # Divido la fecha, extraigo el mes de cada caso y creo una variable Month
+datos$Month <- sapply(strsplit(datos$Last.Updated, " "), function(x) x[1])
+
+# Asigno a cada mes su número correspondiente y creo una variable NMonth
+datos$NMonth <- factor(match(datos$Month, meses), levels = 1:12)
+
+filtrado <- datos %>% 
+  filter(Year == "2018" & Category %in% c("HEALTH_AND_FITNESS","EDUCATION","ENTERTAINMENT")) %>% 
+  group_by(Month, NMonth, Category) %>%
+  summarise(Total_Actualizaciones = n(), .groups = "drop") %>%
+  arrange(NMonth)
+
+ggplot(filtrado, aes(x = NMonth, y = Total_Actualizaciones, group = Category, color = Category)) +
+  geom_line(size = 1) +
+  geom_point(size = 3) +
+  theme_minimal() +
+  labs(title = "Evolución de Actualizaciones por Mes (2018)",
+       x = "Mes", 
+       y = "Total de Actualizaciones",
+       color = "Categoría")
+```
+
+<br>
+
+### f. Mediante diagramas de boxplots comparar los precios de las aplicaciones referidas a la familia, al juego, y a la salud
+
+<br>
+
+```{r}
+filtrado <- datos %>% filter(Category %in% c("FAMILY", "GAME", "HEALTH_AND_FITNESS") & between(Price, 0.01, 15))
+
+# Visualizo la dispersión, mediana y posibles valores atípicos de los precios en cada categoría
+ggplot(filtrado, aes(x = Category, y = Price, fill = Category)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "Comparación de precios por categoría",
+       x = "Categoría", 
+       y = "Precio",
+       fill = "Categoría")
+```
+
+::: {style="color: black; background-color: lightgray"}
+Observo lo siguiente:
+
+-   Las tres categoria tienen la misma mediana; por los que se concluye
+    que los casos estan separados de la misma manera.
+-   En la categoria GAME se observa mayor dispersion de precios que en
+    las otras categorias.\
+:::
+
+<br>
+
+### g. Dentro del grupo adolecente (Teen) realizar una comparación entre las categorías referidas al entretenimiento y el juego con respecto a las que no lo son
+
+<br>
+
+```{r}
+# Filtro aplicaciones con Content.Rating "Teen" y creo un indicador para diferenciar grupos
+filtrado <- datos %>%
+  filter(Content.Rating == "Teen") %>%
+  mutate(Grupo = ifelse(Category %in% c("ENTERTAINMENT", "GAME"), "Entretenimiento/Juego", "Otros")) %>%
+  group_by(Grupo) %>%
+  summarise(
+    Total_Apps = n(),
+    Total_Rating = sum(Rating),
+    Total_Size = sum(Size),
+    Total_Price = sum(Price)
+  ) %>%
+  pivot_longer(cols = c(Total_Apps, Total_Rating, Total_Size, Total_Price),
+               names_to = "Métrica", 
+               values_to = "Valor")
+
+ggplot(filtrado, aes(x = Grupo, y = Valor, fill = Métrica)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme_minimal() +
+  labs(title = "Comparación de métricas por grupo",
+       x = "Grupo", y = "Valor") +
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+<br>
+
+::: {style="color: black; background-color: lightgray"}
+Observo que el Grupo **Otros** la métrica **Total_Apps** tiene una
+cantidad mayor respecto de las aplicaciones de
+**Entretenimiento/Juego**, puedo sugerir que hay una diversidad más
+amplia en las necesidades de los adolescentes.
+
+También se puede observar que la categoría **Entretenimiento/Juego**
+tiene aplicaciones de mayor tamaño, porque vemos que son menos
+aplicaciones y el valor de la métrica Total_Size es mayor.
+:::
+
+<br>
+
+### h. ¿Hay relación entre el tamaño y el precio? Realizar el análisis de manera global y por categoría (elegir 4)
+
+<br>
+
+```{r}
+# Calculo la correlación entre Size y Price para ver si existe una relación estadística entre ambos valores
+correlacion_global <- cor(datos$Size, datos$Price, use = "complete.obs")
+print(correlacion_global)  
+# -0.0171171
+# Como el valor está muy próximo a 0, significa que no hay una relación lineal clara entre Size y Price; es decir, el tamaño de la app no parece influir en su precio de forma evidente
+
+
+# Filtro datos por las categorías seleccionadas
+filtrado <- datos %>% filter(Category %in% c("GAME", "BUSINESS", "TOOLS", "LIFESTYLE"))
+
+# Calculo correlaciones por categoría
+correlaciones_por_categoria <- filtrado %>%
+  group_by(Category) %>%
+  summarise(
+    Correlación_Size_Price = cor(Size, Price, use = "complete.obs")
+  )
+
+print(correlaciones_por_categoria)
+
+ggplot(filtrado, aes(x = Size, y = Price, color = Category)) +
+  geom_point(alpha = 0.6) +
+  geom_smooth(method = "lm", se = FALSE) +
+  theme_minimal() +
+  labs(title = "Relación entre tamaño y precio por categoría",
+       x = "Tamaño de la app (MB)", y = "Precio")
+
+```
+
+<br>
+
+::: {style="color: black; background-color: lightgray"}
+-   Observo que no hay relación clara entre el tamaño y precio de la
+    aplicación, el precio podría depender de otros factores (como
+    funcionalidad, demanda, etc.)
+:::
