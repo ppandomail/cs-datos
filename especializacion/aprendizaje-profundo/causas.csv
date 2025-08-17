@@ -1,0 +1,1001 @@
+provincia_id,provincia_nombre,causa_id,caso_id_ministerio_publico,circunscripcion_id,circunscripcion_descripcion,unidad_id,unidad_descripcion,caso_fecha_inicio,causa_fecha_hecho,delito_codigo,delito_descripcion,delito_tentativa,delito_estadistico,fecha_envio
+02,Ciudad Autónoma de Buenos Aires,436677,MPF 135432,CABA,CABA,965,JUZGADO 18,2017-02-03,2016-12-03,1008,Amenazas,NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437280,MPF 136364,CABA,CABA,966,JUZGADO 11,2017-02-13,2016-12-03,1008,Amenazas,NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,444973,MPF 146674,CABA,CABA,963,JUZGADO 16,2017-05-15,2017-01-28,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,462719,MPF 157733,CABA,CABA,964,JUZGADO 17,2017-12-20,2017-08-17,1056,Acoso Sexual en espacio público (Art. 65 bis según TC Ley 5666 y modif.),NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,456231,MPF 163948,CABA,CABA,1467,JUZGADO 29,2017-09-28,2017-09-02,1008,Amenazas,NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,462381,MPF 172114,CABA,CABA,966,JUZGADO 11,2017-12-19,2017-10-17,1008,Amenazas,NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,349944,MPF00001925,CABA,CABA,134,JUZGADO 10,2017-08-07,2012-07-04,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,349944,MPF00001925,CABA,CABA,134,JUZGADO 10,2017-08-07,2012-07-04,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,331208,MPF00003105,CABA,CABA,6,JUZGADO 4,2017-02-01,2012-07-05,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,331208,MPF00003105,CABA,CABA,6,JUZGADO 4,2017-02-01,2012-07-05,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,337435,MPF00009062,CABA,CABA,966,JUZGADO 11,2017-01-02,2012-10-28,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,342735,MPF00010265,CABA,CABA,968,JUZGADO 22,2017-08-04,2012-10-20,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,345781,MPF00016792,CABA,CABA,1436,JUZGADO 26,2017-12-27,2013-01-31,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,452400,MPF00017840,CABA,CABA,1141,JUZGADO 5,2017-08-25,s/d,372,Ln 13.944 (incumplimiento de los deberes de asistencia familiar) p/ l 2303,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,400609,MPF00018620,CABA,CABA,109,JUZGADO 20,2017-11-24,2013-01-12,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,345793,MPF00019821,CABA,CABA,1466,JUZGADO 28,2017-07-12,2013-03-19,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,346188,MPF00020550,CABA,CABA,1437,JUZGADO 27,2017-05-05,2013-03-12,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,435587,MPF00023673,CABA,CABA,968,JUZGADO 22,2017-02-08,2013-05-13,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,351095,MPF00024541,CABA,CABA,1145,JUZGADO 9,2017-09-04,s/d,,,,Sin informar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,349689,MPF00025054,CABA,CABA,2,JUZGADO 2,2017-09-05,s/d,475,Ln 13.944 (incumplimiento de los deberes de asistencia familiar),NO,Incumplimiento de los deberes de asistencia familiar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437480,MPF00026639,CABA,CABA,1150,JUZGADO 15,2017-06-05,2013-06-22,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,460926,MPF00026725,CABA,CABA,966,JUZGADO 11,2017-11-23,s/d,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,353867,MPF00030573,CABA,CABA,970,JUZGADO 19,2017-06-14,s/d,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,356865,MPF00031975,CABA,CABA,1143,JUZGADO 7,2017-08-17,2013-08-18,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,372989,MPF00033006,CABA,CABA,1143,JUZGADO 7,2017-04-07,2013-09-12,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,372989,MPF00033006,CABA,CABA,1143,JUZGADO 7,2017-04-07,2013-09-12,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,361547,MPF00034054,CABA,CABA,1143,JUZGADO 7,2017-02-03,2013-10-03,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,361547,MPF00034054,CABA,CABA,1143,JUZGADO 7,2017-02-03,2013-10-03,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,436910,MPF00034153,CABA,CABA,1467,JUZGADO 29,2017-02-07,2013-10-08,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,436910,MPF00034153,CABA,CABA,1467,JUZGADO 29,2017-02-07,2013-10-08,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,369960,MPF00034887,CABA,CABA,970,JUZGADO 19,2017-09-14,2013-10-17,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,397154,MPF00039969,CABA,CABA,14,JUZGADO 8,2017-01-18,2013-12-19,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,397154,MPF00039969,CABA,CABA,14,JUZGADO 8,2017-01-18,2013-12-19,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,360754,MPF00040451,CABA,CABA,1150,JUZGADO 15,2017-01-04,2013-12-26,66,Conducir con mayor cantidad de alcohol en sangre del permitido o bajo los efectos de estupefacientes (art. 114 según tc Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,452159,MPF00045070,CABA,CABA,970,JUZGADO 19,2017-08-11,2014-03-08,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,369678,MPF00046332,CABA,CABA,1141,JUZGADO 5,2017-10-03,2014-01-16,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,442857,MPF00047699,CABA,CABA,1463,JUZGADO 25,2017-07-17,2014-04-16,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,368960,MPF00047929,CABA,CABA,1463,JUZGADO 25,2017-04-26,2014-04-09,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,367904,MPF00049555,CABA,CABA,14,JUZGADO 8,2017-07-07,2014-05-13,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,371965,MPF00050197,CABA,CABA,1150,JUZGADO 15,2017-06-05,2014-05-21,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,452272,MPF00051845,CABA,CABA,963,JUZGADO 16,2017-08-31,2014-06-03,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,444006,MPF00053044,CABA,CABA,970,JUZGADO 19,2017-05-05,2014-06-28,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,373334,MPF00054321,CABA,CABA,6,JUZGADO 4,2017-05-17,2014-07-01,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,373334,MPF00054321,CABA,CABA,6,JUZGADO 4,2017-05-17,2014-07-01,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,455349,MPF00055932,CABA,CABA,1147,JUZGADO 3,2017-09-19,2014-08-05,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,390019,MPF00056999,CABA,CABA,966,JUZGADO 11,2017-09-13,2014-08-15,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,432842,MPF00058542,CABA,CABA,1149,JUZGADO 14,2017-02-07,2014-09-05,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,384224,MPF00060994,CABA,CABA,109,JUZGADO 20,2017-05-23,2014-10-06,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,434410,MPF00061275,CABA,CABA,965,JUZGADO 18,2017-01-02,2014-09-28,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,388352,MPF00065146,CABA,CABA,1437,JUZGADO 27,2017-07-03,2014-11-06,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,388352,MPF00065146,CABA,CABA,1437,JUZGADO 27,2017-07-03,2014-11-06,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,389053,MPF00067381,CABA,CABA,1468,JUZGADO 30,2017-03-20,2014-12-04,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,385810,MPF00068804,CABA,CABA,1474,JUZGADO 31,2017-11-13,s/d,372,Ln 13.944 (incumplimiento de los deberes de asistencia familiar) p/ l 2303,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,391180,MPF00072742,CABA,CABA,134,JUZGADO 10,2017-12-05,2015-03-05,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,438577,MPF00072825,CABA,CABA,966,JUZGADO 11,2017-05-05,2015-03-05,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,402282,MPF00072885,CABA,CABA,1149,JUZGADO 14,2017-04-19,2015-03-06,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,436324,MPF00073061,CABA,CABA,1149,JUZGADO 14,2017-02-09,2015-03-07,39,Omitir recaudos de organización y seguridad respecto de un espectáculo masivo (Art. 98 según TC Ley 5666 y modif.),NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,433991,MPF00073410,CABA,CABA,6,JUZGADO 4,2017-01-30,2015-03-17,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,433991,MPF00073410,CABA,CABA,6,JUZGADO 4,2017-01-30,2015-03-17,475,Ln 13.944 (incumplimiento de los deberes de asistencia familiar),NO,Incumplimiento de los deberes de asistencia familiar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,398053,MPF00073818,CABA,CABA,964,JUZGADO 17,2017-02-08,2015-03-20,396,Abandono de Personas - CP (p/ L 2303),NO,Abandono de persona,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,394258,MPF00075824,CABA,CABA,968,JUZGADO 22,2017-01-06,2015-01-22,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,405951,MPF00076179,CABA,CABA,1149,JUZGADO 14,2017-02-10,s/d,402,Usurpación (Despojo) - CP (p/ L 2303),NO,Usurpación,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,393211,MPF00076630,CABA,CABA,1150,JUZGADO 15,2017-02-23,s/d,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,402883,MPF00077451,CABA,CABA,1466,JUZGADO 28,2017-09-12,2015-05-01,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,395844,MPF00078198,CABA,CABA,1467,JUZGADO 29,2017-02-23,2015-04-24,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,394836,MPF00079443,CABA,CABA,2,JUZGADO 2,2017-05-08,2015-05-05,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,404073,MPF00079595,CABA,CABA,1468,JUZGADO 30,2017-11-24,2015-05-12,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,402129,MPF00080756,CABA,CABA,134,JUZGADO 10,2017-06-08,2015-06-02,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,402129,MPF00080756,CABA,CABA,134,JUZGADO 10,2017-06-08,2015-06-02,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,410931,MPF00081305,CABA,CABA,1147,JUZGADO 3,2017-05-16,2014-11-16,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,410931,MPF00081305,CABA,CABA,1147,JUZGADO 3,2017-05-16,2014-11-16,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,409826,MPF00082531,CABA,CABA,6,JUZGADO 4,2017-02-15,2015-06-22,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,422184,MPF00082967,CABA,CABA,1142,JUZGADO 6,2017-01-04,2015-06-17,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,444288,MPF00083576,CABA,CABA,1148,JUZGADO 13,2017-05-15,2015-07-04,372,Ln 13.944 (incumplimiento de los deberes de asistencia familiar) p/ l 2303,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,444288,MPF00083576,CABA,CABA,1148,JUZGADO 13,2017-05-15,2015-07-04,399,Tenencia de arma de fuego de uso civil - CP (p/ L 2303),NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,444288,MPF00083576,CABA,CABA,1148,JUZGADO 13,2017-05-15,2015-07-04,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,399593,MPF00083724,CABA,CABA,2,JUZGADO 2,2017-08-08,2015-02-01,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,407461,MPF00085019,CABA,CABA,1437,JUZGADO 27,2017-10-17,2015-07-18,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,407461,MPF00085019,CABA,CABA,1437,JUZGADO 27,2017-10-17,2015-07-18,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,406871,MPF00085108,CABA,CABA,967,JUZGADO 21,2017-03-31,2015-07-12,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,402578,MPF00085938,CABA,CABA,1150,JUZGADO 15,2017-02-08,2015-07-08,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,415310,MPF00086253,CABA,CABA,91,JUZGADO 1,2017-07-17,s/d,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437350,MPF00086256,CABA,CABA,1466,JUZGADO 28,2017-02-13,2015-08-08,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,403746,MPF00086716,CABA,CABA,134,JUZGADO 10,2017-05-11,s/d,,,,Sin informar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,405256,MPF00088543,CABA,CABA,966,JUZGADO 11,2017-03-20,2015-09-03,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,403924,MPF00089146,CABA,CABA,14,JUZGADO 8,2017-09-28,2015-09-04,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,403274,MPF00089279,CABA,CABA,1347,JUZGADO 23,2017-02-20,2015-09-09,59,Ruidos molestos (Art. 85 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,434011,MPF00089405,CABA,CABA,1143,JUZGADO 7,2017-02-07,2015-09-10,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,408255,MPF00089436,CABA,CABA,14,JUZGADO 8,2017-07-04,s/d,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,414923,MPF00090091,CABA,CABA,1430,JUZGADO 24,2017-02-08,2015-06-23,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,404258,MPF00090509,CABA,CABA,1474,JUZGADO 31,2017-09-18,2015-08-27,59,Ruidos molestos (Art. 85 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,457264,MPF00090765,CABA,CABA,1474,JUZGADO 31,2017-10-17,2015-05-26,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,431203,MPF00091184,CABA,CABA,14,JUZGADO 8,2017-02-13,s/d,372,Ln 13.944 (incumplimiento de los deberes de asistencia familiar) p/ l 2303,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,459031,MPF00091247,CABA,CABA,964,JUZGADO 17,2017-11-01,2015-10-05,447,Presunta comisión Delito (competencia),NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,441018,MPF00091550,CABA,CABA,1145,JUZGADO 9,2017-07-12,2015-09-29,481,Incumplimiento de los Deberes de Asistencia Familiar: Hijos respecto a los padres - LN 13.944,NO,Incumplimiento de los deberes de asistencia familiar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,407124,MPF00091781,CABA,CABA,963,JUZGADO 16,2017-07-31,2015-10-12,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,417731,MPF00092094,CABA,CABA,963,JUZGADO 16,2017-07-11,2015-10-07,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,427037,MPF00092290,CABA,CABA,1149,JUZGADO 14,2017-02-07,s/d,372,Ln 13.944 (incumplimiento de los deberes de asistencia familiar) p/ l 2303,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,406452,MPF00092386,CABA,CABA,963,JUZGADO 16,2017-03-06,2015-10-06,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,443623,MPF00092568,CABA,CABA,970,JUZGADO 19,2017-05-08,2015-10-19,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,426838,MPF00092799,CABA,CABA,109,JUZGADO 20,2017-04-10,2015-10-26,475,Ln 13.944 (incumplimiento de los deberes de asistencia familiar),NO,Incumplimiento de los deberes de asistencia familiar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,420302,MPF00092920,CABA,CABA,967,JUZGADO 21,2017-01-09,2015-10-26,396,Abandono de Personas - CP (p/ L 2303),NO,Abandono de persona,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,412915,MPF00093019,CABA,CABA,968,JUZGADO 22,2017-02-14,s/d,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,438356,MPF00093231,CABA,CABA,1150,JUZGADO 15,2017-03-01,s/d,372,Ln 13.944 (incumplimiento de los deberes de asistencia familiar) p/ l 2303,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,459436,MPF00093463,CABA,CABA,970,JUZGADO 19,2017-11-08,2015-10-30,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,430867,MPF00093471,CABA,CABA,1463,JUZGADO 25,2017-05-16,2015-10-17,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437357,MPF00093841,CABA,CABA,1467,JUZGADO 29,2017-03-02,s/d,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437357,MPF00093841,CABA,CABA,1467,JUZGADO 29,2017-03-02,s/d,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,453413,MPF00093893,CABA,CABA,1150,JUZGADO 15,2017-09-05,2015-10-30,49,Ensuciar bienes de propiedad pública o privada (Art. 83 según tTC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,453413,MPF00093893,CABA,CABA,1150,JUZGADO 15,2017-09-05,2015-10-30,7,Colocar o arrojar sustancias insalubres o cosas dañinas en lugares públicos (Art. 54 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,408553,MPF00094419,CABA,CABA,967,JUZGADO 21,2017-02-14,2015-07-19,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,413808,MPF00094735,CABA,CABA,1467,JUZGADO 29,2017-02-01,2015-11-15,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,435694,MPF00095220,CABA,CABA,1468,JUZGADO 30,2017-02-02,2015-11-18,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,438866,MPF00095226,CABA,CABA,1467,JUZGADO 29,2017-03-08,s/d,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,412079,MPF00095238,CABA,CABA,970,JUZGADO 19,2017-02-02,s/d,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,426330,MPF00095764,CABA,CABA,1808,secrejujuzcyf3,2017-02-10,2015-11-26,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,414092,MPF00096141,CABA,CABA,14,JUZGADO 8,2017-01-26,2015-12-01,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,435766,MPF00096362,CABA,CABA,966,JUZGADO 11,2017-02-03,2015-12-01,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,409716,MPF00096576,CABA,CABA,966,JUZGADO 11,2017-03-03,2015-12-11,4,"Portar armas no convencionales en la via publica, sin causa que lo justifique (art. 88 según tc Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,428554,MPF00096598,CABA,CABA,1347,JUZGADO 23,2017-03-17,2015-12-12,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,427036,MPF00096743,CABA,CABA,1143,JUZGADO 7,2017-02-02,s/d,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437630,MPF00096801,CABA,CABA,966,JUZGADO 11,2017-02-20,2015-12-15,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,413982,MPF00096932,CABA,CABA,1141,JUZGADO 5,2017-08-02,2015-12-02,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,424074,MPF00096966,CABA,CABA,1463,JUZGADO 25,2017-01-18,2015-11-11,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,433880,MPF00097114,CABA,CABA,1145,JUZGADO 9,2017-12-07,2015-12-19,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,422893,MPF00097374,CABA,CABA,1143,JUZGADO 7,2017-02-02,2015-12-06,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,416314,MPF00097384,CABA,CABA,1467,JUZGADO 29,2017-06-12,2015-11-15,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,416314,MPF00097384,CABA,CABA,1467,JUZGADO 29,2017-06-12,2015-11-15,59,Ruidos molestos (Art. 85 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,437861,MPF00097386,CABA,CABA,91,JUZGADO 1,2017-03-01,2015-11-29,66,Conducir con mayor cantidad de alcohol en sangre del permitido o bajo los efectos de estupefacientes (art. 114 según tc Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,441307,MPF00097530,CABA,CABA,1143,JUZGADO 7,2017-04-18,s/d,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,418851,MPF00098002,CABA,CABA,964,JUZGADO 17,2017-04-26,2015-12-29,477,Trabajo Infantil - Ley 26.847 Art. 148 bis,NO,Sin clasificar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,415652,MPF00098021,CABA,CABA,964,JUZGADO 17,2017-02-16,2015-12-18,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,410832,MPF00098217,CABA,CABA,134,JUZGADO 10,2017-06-01,2015-12-17,404,Daños - CP (p/ L 2303),NO,Daños,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,419368,MPF00098462,CABA,CABA,1145,JUZGADO 9,2017-05-10,2015-12-28,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,412614,MPF00098689,CABA,CABA,1467,JUZGADO 29,2017-02-16,2015-08-10,393,Delitos Atinentes a la Pornografía (producir/publicar imágenes pornogr. c menores 18) CP (p/ L 2303),NO,Pornografía infantil,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,441828,MPF00099037,CABA,CABA,966,JUZGADO 11,2017-04-24,2015-12-12,21,Violar clausura impuesta por autoridad judicial o administrativa (Art. 74 según TC Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,442022,MPF00099074,CABA,CABA,964,JUZGADO 17,2017-04-10,2015-10-15,475,Ln 13.944 (incumplimiento de los deberes de asistencia familiar),NO,Incumplimiento de los deberes de asistencia familiar,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,415460,MPF00099239,CABA,CABA,1474,JUZGADO 31,2017-11-02,2016-01-17,66,Conducir con mayor cantidad de alcohol en sangre del permitido o bajo los efectos de estupefacientes (art. 114 según tc Ley 5666 y modif.),NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,430040,MPF00099321,CABA,CABA,970,JUZGADO 19,2017-05-30,2016-01-19,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,412953,MPF00099752,CABA,CABA,1474,JUZGADO 31,2017-02-15,2016-01-16,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,438864,MPF00100056,CABA,CABA,1808,secrejujuzcyf3,2017-03-09,2016-01-23,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,436464,MPF00100312,CABA,CABA,968,JUZGADO 22,2017-04-25,2016-01-30,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,429214,MPF00100677,CABA,CABA,1347,JUZGADO 23,2017-03-31,2016-01-23,403,Amenazas - CP (p/ L 2303),NO,Amenazas,2018-11-05
+02,Ciudad Autónoma de Buenos Aires,426204,MPF00100701,CABA,CABA,1430,JUZGADO 24,2017-08-01,2016-02-02,449,"Hostigar, maltratar, intimidar (Art. 52 según TC Ley 5666 y modif.)",NO,Contravención,2018-11-05
+14,Córdoba,10000569,sd,1,Primera,339,FISC. DISTRITO 2 TURNO 5,2021-05-19,2021-04-23,158,HURTO,NO,Hurto,2022-05-13
+14,Córdoba,10000583,sd,1,Primera,339,FISC. DISTRITO 2 TURNO 5,2021-06-28,,,,,Sin informar,2022-05-13
+14,Córdoba,10000607,sd,1,Primera,333,FISC. DISTRITO 1 TURNO 5,2021-05-21,2021-04-23,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10000610,sd,1,Primera,1090,,2021-12-30,,102,PRIVACIÓN ILEGÍTIMA DE LA LIBERTAD PERSONAL CALIFICADA,NO,Sin clasificar,2022-05-13
+14,Córdoba,10000610,sd,1,Primera,1090,,2021-12-30,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10000610,sd,1,Primera,1090,,2021-12-30,,136,AMENAZAS CALIFICADAS POR EL EMPLEO DE ARMAS,NO,Amenazas,2022-05-13
+14,Córdoba,10000610,sd,1,Primera,1090,,2021-12-30,,142,VIOLACIÓN DE DOMICILIO,NO,Violación de domicilio,2022-05-13
+14,Córdoba,10000610,sd,1,Primera,1090,,2021-12-30,,169,ROBO,NO,Robo,2022-05-13
+14,Córdoba,10000610,sd,1,Primera,1090,,2021-12-30,,236,DAÑO,NO,Daños,2022-05-13
+14,Córdoba,10000664,sd,1,Primera,1090,,2021-11-02,,134,AMENAZAS CALIFICADAS,NO,Amenazas,2022-05-13
+14,Córdoba,10000664,sd,1,Primera,1090,,2021-11-02,,424,LESIONES LEVES CALIFICADAS,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10000669,sd,1,Primera,345,FISC. DISTRITO 3 TURNO 5,2021-05-05,,,,,Sin informar,2022-05-13
+14,Córdoba,10000710,sd,1,Primera,344,FISC. DISTRITO 4 TURNO 2 (EX FISC. DISTR 3 TURNO 4),2021-07-09,2021-04-24,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10000726,sd,1,Primera,334,FISC. DISTRITO 1 TURNO 6,2021-06-08,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10000728,sd,1,Primera,342,FIS. DE DELITOS CONTRA LA INTEGRIDAD SEXUAL DE 1° TURNO,2021-06-05,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10000728,sd,1,Primera,342,FIS. DE DELITOS CONTRA LA INTEGRIDAD SEXUAL DE 1° TURNO,2021-06-05,,137,COACCIÓN,NO,Coacción,2022-05-13
+14,Córdoba,10000728,sd,1,Primera,342,FIS. DE DELITOS CONTRA LA INTEGRIDAD SEXUAL DE 1° TURNO,2021-06-05,,58,ABUSO SEXUAL CON ACCESO CARNAL,NO,Abuso sexual,2022-05-13
+14,Córdoba,10000745,sd,1,Primera,720,MESA DE ATENCION PERMANENTE - SEC.PENAL DEL TSJ,2021-04-24,,637,DEFRAUDACIÓN POR NEGATIVA A RESTITUIR O RESTITUCIÓN TARDÍA DE OBJETOS DADOS,NO,Estafa y otras defraudaciones,2022-05-13
+14,Córdoba,10000799,sd,1,Primera,334,FISC. DISTRITO 1 TURNO 6,2021-08-09,,,,,Sin informar,2022-05-13
+14,Córdoba,10000811,sd,1,Primera,344,FISC. DISTRITO 4 TURNO 2 (EX FISC. DISTR 3 TURNO 4),2021-05-03,2021-04-22,169,ROBO,NO,Robo,2022-05-13
+14,Córdoba,10000890,sd,1,Primera,334,FISC. DISTRITO 1 TURNO 6,2021-12-13,2021-04-25,23,LESIONES LEVES,SI,Lesiones dolosas,2022-05-13
+14,Córdoba,10000900,sd,1,Primera,334,FISC. DISTRITO 1 TURNO 6,2021-11-10,2021-04-25,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10000916,sd,5,Quinta,437,FISC.INSTRUC.FLIA 2 T - SAN FRANCISCO,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10000921,sd,5,Quinta,437,FISC.INSTRUC.FLIA 2 T - SAN FRANCISCO,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10000972,sd,4,Cuarta,146,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.5 - V.MARIA,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10000973,sd,4,Cuarta,146,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.5 - V.MARIA,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10000977,sd,4,Cuarta,146,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.5 - V.MARIA,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10000980,sd,4,Cuarta,146,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.5 - V.MARIA,2021-04-25,2020-12-27,194,ESTAFA,NO,Estafa y otras defraudaciones,2022-05-13
+14,Córdoba,10000986,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,2021-03-05,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10000986,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,2021-03-05,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10000995,sd,1,Primera,334,FISC. DISTRITO 1 TURNO 6,2021-07-02,,,,,Sin informar,2022-05-13
+14,Córdoba,10001012,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,,236,DAÑO,NO,Daños,2022-05-13
+14,Córdoba,10001012,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10001016,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,2021-04-14,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10001016,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,2021-04-14,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10001021,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10001028,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10001031,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,,,,,Sin informar,2022-05-13
+14,Córdoba,10001037,sd,4,Cuarta,147,FISC.3ºN.C/COMP.CIV.COM.LAB.DE FLIA.INSTR.Y MEN.-SEC.6 - V.MARIA,2021-04-25,,2262,ADQUISICIÓN DE EFECTOS DE DELITO,NO,Sin clasificar,2022-05-13
+14,Córdoba,10001039,sd,1,Primera,344,FISC. DISTRITO 4 TURNO 2 (EX FISC. DISTR 3 TURNO 4),2021-07-21,2021-04-25,158,HURTO,NO,Hurto,2022-05-13
+14,Córdoba,10002647,sd,1,Primera,345,FISC. DISTRITO 3 TURNO 5,2021-10-14,,28,LESIONES LEVES CULPOSAS,NO,Lesiones culposas,2022-05-13
+14,Córdoba,10002676,sd,1,Primera,334,FISC. DISTRITO 1 TURNO 6,2021-06-22,2021-04-26,163,HURTO CALIFICADO POR ESCALAMIENTO,NO,Hurto,2022-05-13
+14,Córdoba,10002691,sd,1,Primera,1090,,2021-05-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002691,sd,1,Primera,1090,,2021-05-26,,136,AMENAZAS CALIFICADAS POR EL EMPLEO DE ARMAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002691,sd,1,Primera,1090,,2021-05-26,,2011,LESIONES LEVES CALIFICADAS POR EL VÍNCULO,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002691,sd,1,Primera,1090,,2021-05-26,,923,PRIVACION ILEGITIMA DE LA LIBERTAD CALIFICADA POR LA FORMA O EL FIN,NO,Sin clasificar,2022-05-13
+14,Córdoba,10002725,sd,2,Segunda,551,FISC.INSTRUC.FLIA - LA CARLOTA,2021-04-26,,136,AMENAZAS CALIFICADAS POR EL EMPLEO DE ARMAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002725,sd,2,Segunda,551,FISC.INSTRUC.FLIA - LA CARLOTA,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002731,sd,2,Segunda,496,FISCALIA INSTRUCCION 2 T - RIO CUARTO,2021-04-26,,163,HURTO CALIFICADO POR ESCALAMIENTO,NO,Hurto,2022-05-13
+14,Córdoba,10002745,sd,3,Tercera,588,FISC.INSTRUC.FLIA.-SEC.2. - MARCOS JUAREZ,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002745,sd,3,Tercera,588,FISC.INSTRUC.FLIA.-SEC.2. - MARCOS JUAREZ,2021-04-26,,137,COACCIÓN,NO,Coacción,2022-05-13
+14,Córdoba,10002745,sd,3,Tercera,588,FISC.INSTRUC.FLIA.-SEC.2. - MARCOS JUAREZ,2021-04-26,,424,LESIONES LEVES CALIFICADAS,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002762,sd,3,Tercera,574,FISCALIA INSTRUCC. Y FLIA 1º NOM (Ex.Sec 1) - BELL VILLE,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002764,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002772,sd,5,Quinta,437,FISC.INSTRUC.FLIA 2 T - SAN FRANCISCO,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002773,sd,4,Cuarta,164,JUZGADO DE EJECUCION PENAL - V.MARIA,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002774,sd,6,Sexta,621,JUZG.DE CONTROL - VILLA DOLORES,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002788,sd,2,Segunda,496,FISCALIA INSTRUCCION 2 T - RIO CUARTO,2021-04-26,2021-04-17,172,ROBO CALIFICADO CON ARMA DE FUEGO OPERATIVA,SI,Robo,2022-05-13
+14,Córdoba,10002788,sd,2,Segunda,496,FISCALIA INSTRUCCION 2 T - RIO CUARTO,2021-04-26,2021-04-17,236,DAÑO,NO,Daños,2022-05-13
+14,Córdoba,10002788,sd,2,Segunda,496,FISCALIA INSTRUCCION 2 T - RIO CUARTO,2021-04-26,2021-04-17,38,DISPARO DE ARMA DE FUEGO (ABUSO DE ARMA),NO,Abuso de arma,2022-05-13
+14,Córdoba,10002790,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002802,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2020-12-17,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002807,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002807,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,137,COACCIÓN,NO,Coacción,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,142,VIOLACIÓN DE DOMICILIO,NO,Violación de domicilio,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,2011,LESIONES LEVES CALIFICADAS POR EL VÍNCULO,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,2058,ABUSO DE ARMA CALIFICADAS POR EL VÍNCULO,NO,Abuso de arma,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,236,DAÑO,NO,Daños,2022-05-13
+14,Córdoba,10002810,sd,1,Primera,932,FISCALIA DE INSTRUCC.DE VIOL.FLIAR. DE 3° TURNO,2021-04-26,,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10002819,sd,1,Primera,949,FISC.INSTRUC.COMPET.MULTIPLE 3°T- CARLOS PAZ,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002831,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002837,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2021-03-03,380,INFRACCIÓN LEY 14346 MALOS TRATOS Y ACTOS DE CRUELDAD A LOS ANIMALES(LEY SARMIENTO),NO,Sin clasificar,2022-05-13
+14,Córdoba,10002839,sd,1,Primera,340,FISC. DISTRITO 2 TURNO 6,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002858,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,512,TENENCIA ILEGAL DE ARMA DE FUEGO,NO,Sin clasificar,2022-05-13
+14,Córdoba,10002882,sd,1,Primera,333,FISC. DISTRITO 1 TURNO 5,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002901,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002902,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002902,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002909,sd,7,Séptima,642,FISC.INSTRUCC.Y FAMILIA-SEC.2 - CRUZ DEL EJE,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002909,sd,7,Séptima,642,FISC.INSTRUCC.Y FAMILIA-SEC.2 - CRUZ DEL EJE,2021-04-26,,137,COACCIÓN,NO,Coacción,2022-05-13
+14,Córdoba,10002909,sd,7,Séptima,642,FISC.INSTRUCC.Y FAMILIA-SEC.2 - CRUZ DEL EJE,2021-04-26,,2011,LESIONES LEVES CALIFICADAS POR EL VÍNCULO,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002909,sd,7,Séptima,642,FISC.INSTRUCC.Y FAMILIA-SEC.2 - CRUZ DEL EJE,2021-04-26,,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10002910,sd,7,Séptima,651,FISC.INSTRUC.COMPET.MULTIPLE 1°T-SEC.1-COSQUIN,2021-04-26,2021-01-08,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10002928,sd,10,Décima,536,FISC.INSTRUCC.Y FLIA. 1A.NOM. - RIO TERCERO,2021-04-26,,142,VIOLACIÓN DE DOMICILIO,NO,Violación de domicilio,2022-05-13
+14,Córdoba,10002928,sd,10,Décima,536,FISC.INSTRUCC.Y FLIA. 1A.NOM. - RIO TERCERO,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002930,sd,1,Primera,876,FISC.INSTRUC.COMPET.MULTIPLE 1° T-ALTA GRACIA,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002933,sd,5,Quinta,459,FISCALIA DE INSTRUCCION - MORTEROS,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002934,sd,3,Tercera,779,SEC. DE LUCHA CONTRA EL NARCOTRAFICO-BELL VILLE,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002937,sd,2,Segunda,496,FISCALIA INSTRUCCION 2 T - RIO CUARTO,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002941,sd,4,Cuarta,150,FISC.INSTRUC.FLIA 1°T-SEC.2. - V.MARIA,2021-03-30,,,,,Sin informar,2022-05-13
+14,Córdoba,10002948,sd,5,Quinta,459,FISCALIA DE INSTRUCCION - MORTEROS,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10002949,sd,1,Primera,876,FISC.INSTRUC.COMPET.MULTIPLE 1° T-ALTA GRACIA,2021-04-26,,230,TURBACIÓN DE LA POSESIÓN O TENENCIA,NO,Sin clasificar,2022-05-13
+14,Córdoba,10002960,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002960,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,236,DAÑO,NO,Daños,2022-05-13
+14,Córdoba,10002960,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,424,LESIONES LEVES CALIFICADAS,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10002961,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2021-03-23,134,AMENAZAS CALIFICADAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002961,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2021-03-23,485,ROBO EN GRADO DE TENTATIVA,NO,Robo,2022-05-13
+14,Córdoba,10002962,sd,7,Séptima,652,FISC.INSTRUC.COMPET.MULTIPLE 1°T-SEC.2-COSQUIN,2021-04-26,2021-04-26,140,AMENAZAS COACTIVAS CALIFICADAS POR EL USO DE ARMAS,NO,Coacción,2022-05-13
+14,Córdoba,10002965,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,1028,CORRUPCION DE MENORES CALIFICADA POR LA EDAD DE LA VICTIMA,NO,Sin clasificar,2022-05-13
+14,Córdoba,10002965,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,2107,SUMINISTRAR MATERIAL PORNOGRÁFICO CON IMÁGENES DE MENORES DE 13 AÑOS A MENORES DE 14 AÑOS,NO,Pornografía infantil,2022-05-13
+14,Córdoba,10002965,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,431,ABUSO SEXUAL,NO,Abuso sexual,2022-05-13
+14,Córdoba,10002965,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,58,ABUSO SEXUAL CON ACCESO CARNAL,NO,Abuso sexual,2022-05-13
+14,Córdoba,10002971,sd,2,Segunda,551,FISC.INSTRUC.FLIA - LA CARLOTA,2021-04-26,,1145,VIOLACIÓN DE MEDIDAS CONTRA EPIDEMIAS,NO,Violación de medidas contra epidemias,2022-05-13
+14,Córdoba,10002971,sd,2,Segunda,551,FISC.INSTRUC.FLIA - LA CARLOTA,2021-04-26,,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10002986,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-20,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10002988,sd,2,Segunda,491,FISCALIA INSTRUCCION 4 T - RIO CUARTO,2021-04-26,,344,ENCUBRIMIENTO,NO,Encubrimiento,2022-05-13
+14,Córdoba,10002994,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2019-03-25,142,VIOLACIÓN DE DOMICILIO,NO,Violación de domicilio,2022-05-13
+14,Córdoba,10002994,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2019-03-25,158,HURTO,NO,Hurto,2022-05-13
+14,Córdoba,10003001,sd,3,Tercera,574,FISCALIA INSTRUCC. Y FLIA 1º NOM (Ex.Sec 1) - BELL VILLE,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003004,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10003006,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003011,sd,4,Cuarta,152,FISC.INSTRUC.FLIA 2°T-SEC.4. - V.MARIA,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003015,sd,10,Décima,536,FISC.INSTRUCC.Y FLIA. 1A.NOM. - RIO TERCERO,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10003018,sd,1,Primera,103,FISC.INSTRUC.FAMILIA-SEC.1- RIO SEGUNDO,2021-04-26,2021-04-10,169,ROBO,NO,Robo,2022-05-13
+14,Córdoba,10003018,sd,1,Primera,103,FISC.INSTRUC.FAMILIA-SEC.1- RIO SEGUNDO,2021-04-26,2021-04-10,172,ROBO CALIFICADO CON ARMA DE FUEGO OPERATIVA,NO,Robo,2022-05-13
+14,Córdoba,10003030,sd,2,Segunda,491,FISCALIA INSTRUCCION 4 T - RIO CUARTO,2021-04-26,,1145,VIOLACIÓN DE MEDIDAS CONTRA EPIDEMIAS,NO,Violación de medidas contra epidemias,2022-05-13
+14,Córdoba,10003030,sd,2,Segunda,491,FISCALIA INSTRUCCION 4 T - RIO CUARTO,2021-04-26,,293,RESISTENCIA O DESOBEDIENCIA A UN FUNCIONARIO PÚBLICO,NO,Resistencia o desobediencia a un funcionario público,2022-05-13
+14,Córdoba,10003032,sd,1,Primera,330,FISC. DISTRITO 1 TURNO 2,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003042,sd,5,Quinta,469,FISCALIA DE INSTRUCCION - LAS VARILLAS,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003050,sd,3,Tercera,1087,,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003053,sd,1,Primera,113,FISC.INSTRUC.FAMILIA-SEC.1 - JESUS MARIA,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10003054,sd,5,Quinta,437,FISC.INSTRUC.FLIA 2 T - SAN FRANCISCO,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003055,sd,3,Tercera,574,FISCALIA INSTRUCC. Y FLIA 1º NOM (Ex.Sec 1) - BELL VILLE,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003058,sd,10,Décima,536,FISC.INSTRUCC.Y FLIA. 1A.NOM. - RIO TERCERO,2021-04-26,,230,TURBACIÓN DE LA POSESIÓN O TENENCIA,NO,Sin clasificar,2022-05-13
+14,Córdoba,10003061,sd,4,Cuarta,150,FISC.INSTRUC.FLIA 1°T-SEC.2. - V.MARIA,2021-04-22,,131,OCULTACIÓN DE MENOR SUSTRAÍDO O FUGADO,NO,Sin clasificar,2022-05-13
+14,Córdoba,10003061,sd,4,Cuarta,150,FISC.INSTRUC.FLIA 1°T-SEC.2. - V.MARIA,2021-04-22,,655,ABUSO SEXUAL CON APROVECHAMIENTO DE LA INMADUREZ SEXUAL DE LA VICTIMA,NO,Abuso sexual de menores,2022-05-13
+14,Córdoba,10003063,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2020-03-01,169,ROBO,NO,Robo,2022-05-13
+14,Córdoba,10003064,sd,2,Segunda,551,FISC.INSTRUC.FLIA - LA CARLOTA,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10003074,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003085,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2021-01-29,105,PRIVACIÓN ILEGÍTIMA DE LA LIBERTAD PERSONAL CALIFICADA POR EL VÍNCULO,NO,Sin clasificar,2022-05-13
+14,Córdoba,10003085,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,2021-01-29,424,LESIONES LEVES CALIFICADAS,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10003091,sd,4,Cuarta,152,FISC.INSTRUC.FLIA 2°T-SEC.4. - V.MARIA,2021-04-26,,1145,VIOLACIÓN DE MEDIDAS CONTRA EPIDEMIAS,NO,Violación de medidas contra epidemias,2022-05-13
+14,Córdoba,10003106,sd,2,Segunda,556,"JUZGADO DE CONTROL,NIÑEZ,ADOLES,PENAL JUVENIL,VIOL.FLIAR Y DE GENERO Y FALTAS - LA CARLOTA",2021-04-26,2020-11-21,137,COACCIÓN,NO,Coacción,2022-05-13
+14,Córdoba,10003106,sd,2,Segunda,556,"JUZGADO DE CONTROL,NIÑEZ,ADOLES,PENAL JUVENIL,VIOL.FLIAR Y DE GENERO Y FALTAS - LA CARLOTA",2021-04-26,2020-11-21,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10003109,sd,3,Tercera,574,FISCALIA INSTRUCC. Y FLIA 1º NOM (Ex.Sec 1) - BELL VILLE,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10003131,sd,1,Primera,873,FISC.INSTRUC.COMPET.MULTIPLE 2° T-ALTA GRACIA,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003154,sd,1,Primera,722,MESA DE ENTRADAS DEL FUERO PENAL - SEC.PENAL TSJ,2021-04-26,,,,,Sin informar,2022-05-13
+14,Córdoba,10003163,sd,6,Sexta,613,FISC.1A.N.C/C.EN MAT.C.C.LAB.FLIA.INSTR.MEN.Y CORREC.-V.DOLORES,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10003163,sd,6,Sexta,613,FISC.1A.N.C/C.EN MAT.C.C.LAB.FLIA.INSTR.MEN.Y CORREC.-V.DOLORES,2021-04-26,,137,COACCIÓN,NO,Coacción,2022-05-13
+14,Córdoba,10003163,sd,6,Sexta,613,FISC.1A.N.C/C.EN MAT.C.C.LAB.FLIA.INSTR.MEN.Y CORREC.-V.DOLORES,2021-04-26,,23,LESIONES LEVES,NO,Lesiones dolosas,2022-05-13
+14,Córdoba,10003173,sd,2,Segunda,496,FISCALIA INSTRUCCION 2 T - RIO CUARTO,2021-04-26,,133,AMENAZAS,NO,Amenazas,2022-05-13
+14,Córdoba,10003184,sd,5,Quinta,437,FISC.INSTRUC.FLIA 2 T - SAN FRANCISCO,2021-04-26,,,,,Sin informar,2022-05-13
+18,Corrientes,PXT-19589/19,PXT-19589/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-31,2019-03-31,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19588/19,PXT-19588/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-30,2019-03-30,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19587/19,PXT-19587/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-27,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19586/19,PXT-19586/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-29,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19585/19,PXT-19585/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19584/19,PXT-19584/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-16,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19584/19,PXT-19584/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-16,CP.150.0.00.00.00,Violación de domicilio,NO,Violación de domicilio,2019-06-07
+18,Corrientes,PXT-19583/19,PXT-19583/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,CP.167.0.00.01.00,Robo en despoblado,SI,Robo,2019-06-07
+18,Corrientes,PXT-19582/19,PXT-19582/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,CP.239.0.00.00.00,Resistencia o desobediencia a un funcionario público,NO,Resistencia o desobediencia a un funcionario público,2019-06-07
+18,Corrientes,PXT-19581/19,PXT-19581/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,CP.163.0.00.04.00,Hurto con escalamiento,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19580/19,PXT-19580/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19580/19,PXT-19580/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,IMPEDIMENTO DE CONTACTO DE MENOR CON PROGENITOR NO CONVIVIR,Impedimento de contacto de menor con progenitor no convivir,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19579/19,PXT-19579/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,CP.142.3.00.00.00,Desaparición forzada de personas,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19578/19,PXT-19578/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19578/19,PXT-19578/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19577/19,PXT-19577/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19576/19,PXT-19576/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-29,2019-03-28,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19575/19,PXT-19575/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-28,2019-03-27,CP.163.0.00.04.00,Hurto con escalamiento,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19574/19,PXT-19574/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-26,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19573/19,PXT-19573/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-26,INCUMPLIMIENTO DE ASISTENCIA FAMILIAR. LEY 13944,Incumplimiento de asistencia familiar. Ley 13944,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19572/19,PXT-19572/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-26,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19571/19,PXT-19571/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-26,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19570/19,PXT-19570/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-27,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19569/19,PXT-19569/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-27,CP.119.0.01.00.00,Abuso sexual,NO,Abuso sexual,2019-06-07
+18,Corrientes,PXT-19568/19,PXT-19568/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-27,2019-03-26,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19567/19,PXT-19567/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19566/19,PXT-19566/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-23,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19565/19,PXT-19565/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-24,CP.162.0.00.00.00,Hurto simple,SI,Hurto,2019-06-07
+18,Corrientes,PXT-19564/19,PXT-19564/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-23,CP.094.2.01.00.00,Lesiones culposas graves o gravísimas en accidente de tránsito,NO,Lesiones culposas,2019-06-07
+18,Corrientes,PXT-19563/19,PXT-19563/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19562/19,PXT-19562/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19561/19,PXT-19561/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19560/19,PXT-19560/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-23,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19559/19,PXT-19559/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19558/19,PXT-19558/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19557/19,PXT-19557/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19556/19,PXT-19556/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,INCUMPLIMIENTO DE ASISTENCIA FAMILIAR. LEY 13944,Incumplimiento de asistencia familiar. Ley 13944,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19555/19,PXT-19555/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19554/19,PXT-19554/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19553/19,PXT-19553/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-25,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19552/19,PXT-19552/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-26,2019-03-26,HABEAS CORPUS,Habeas corpus,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19551/19,PXT-19551/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-24,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19550/19,PXT-19550/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-25,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19549/19,PXT-19549/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-25,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19549/19,PXT-19549/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-25,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19548/19,PXT-19548/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-24,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19547/19,PXT-19547/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-24,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19546/19,PXT-19546/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19545/19,PXT-19545/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.094.2.01.00.00,Lesiones culposas graves o gravísimas en accidente de tránsito,NO,Lesiones culposas,2019-06-07
+18,Corrientes,PXT-19544/19,PXT-19544/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19543/19,PXT-19543/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-23,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19542/19,PXT-19542/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-23,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19541/19,PXT-19541/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19540/19,PXT-19540/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19539/19,PXT-19539/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19538/19,PXT-19538/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-23,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19537/19,PXT-19537/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-23,CP.090.0.00.00.00,Lesiones graves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19536/19,PXT-19536/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.119.0.01.00.00,Abuso sexual,NO,Abuso sexual,2019-06-07
+18,Corrientes,PXT-19536/19,PXT-19536/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-25,2019-03-22,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19535/19,PXT-19535/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,INCUMPLIMIENTO DE ASISTENCIA FAMILIAR. LEY 13944,Incumplimiento de asistencia familiar. Ley 13944,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19534/19,PXT-19534/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-19,CP.277.0.00.00.00,Encubrimiento,NO,Encubrimiento,2019-06-07
+18,Corrientes,PXT-19533/19,PXT-19533/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-20,CP.181.0.00.00.00,Usurpación,NO,Usurpación,2019-06-07
+18,Corrientes,PXT-19532/19,PXT-19532/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19531/19,PXT-19531/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,CP.172.0.00.00.00,Estafa,NO,Estafa y otras defraudaciones,2019-06-07
+18,Corrientes,PXT-19530/19,PXT-19530/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19530/19,PXT-19530/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19529/19,PXT-19529/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19528/19,PXT-19528/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19527/19,PXT-19527/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19526/19,PXT-19526/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-22,2019-03-21,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19525/19,PXT-19525/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-20,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19524/19,PXT-19524/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-19,CP.094.2.01.00.00,Lesiones culposas graves o gravísimas en accidente de tránsito,NO,Lesiones culposas,2019-06-07
+18,Corrientes,PXT-19523/19,PXT-19523/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-18,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19522/19,PXT-19522/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-20,CP.167.3.00.00.00,Abigeato,NO,Abigeato,2019-06-07
+18,Corrientes,PXT-19521/19,PXT-19521/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-21,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19520/19,PXT-19520/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-20,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19520/19,PXT-19520/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-20,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19519/19,PXT-19519/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-12,INFRACCION A LA LEY 24.270,Infraccion a laLey 24.270,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19518/19,PXT-19518/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-20,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19517/19,PXT-19517/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-21,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19516/19,PXT-19516/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-21,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19515/19,PXT-19515/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-19,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19514/19,PXT-19514/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-20,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19513/19,PXT-19513/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-21,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19512/19,PXT-19512/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-21,2019-03-21,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19511/19,PXT-19511/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-20,2019-03-18,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19510/19,PXT-19510/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-20,2019-03-19,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19509/19,PXT-19509/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-20,2019-03-19,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19508/19,PXT-19508/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-20,2019-03-20,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19507/19,PXT-19507/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-19,CP.186.0.00.00.00,"Incendio, explosión o inundación",NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19506/19,PXT-19506/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-15,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19505/19,PXT-19505/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-18,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19504/19,PXT-19504/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-18,CP.149.3.00.01.00,Amenazas coactivas agravadas por el uso de armas o anonimato,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19503/19,PXT-19503/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-17,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19502/19,PXT-19502/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-18,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19501/19,PXT-19501/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-16,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19500/19,PXT-19500/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-18,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19499/19,PXT-19499/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-17,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19498/19,PXT-19498/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-17,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19497/19,PXT-19497/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-16,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19496/19,PXT-19496/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-19,2019-03-18,OFICIO,Oficio,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19495/19,PXT-19495/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-17,CP.092.0.00.00.01,Lesiones leves agravadas,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19494/19,PXT-19494/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-17,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19493/19,PXT-19493/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-15,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19492/19,PXT-19492/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19491/19,PXT-19491/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-15,CP.172.0.00.00.00,Estafa,NO,Estafa y otras defraudaciones,2019-06-07
+18,Corrientes,PXT-19490/19,PXT-19490/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-15,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19489/19,PXT-19489/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-15,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19488/19,PXT-19488/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19487/19,PXT-19487/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-17,CP.183.0.01.00.00,Daños de una cosa mueble o inmueble o un animal,NO,Daños,2019-06-07
+18,Corrientes,PXT-19487/19,PXT-19487/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-17,CP.167.0.00.01.00,Robo en despoblado,SI,Robo,2019-06-07
+18,Corrientes,PXT-19486/19,PXT-19486/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19485/19,PXT-19485/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,CP.181.0.00.00.00,Usurpación,NO,Usurpación,2019-06-07
+18,Corrientes,PXT-19484/19,PXT-19484/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-15,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19483/19,PXT-19483/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,CP.119.0.01.00.00,Abuso sexual,NO,Abuso sexual,2019-06-07
+18,Corrientes,PXT-19482/19,PXT-19482/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19481/19,PXT-19481/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-16,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19480/19,PXT-19480/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-18,2019-03-15,INCUMPLIMIENTO DE ASISTENCIA FAMILIAR. LEY 13944,Incumplimiento de asistencia familiar. Ley 13944,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19479/19,PXT-19479/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-16,2019-03-16,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19478/19,PXT-19478/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-15,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19477/19,PXT-19477/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-14,CP.084.2.01.00.00,Homicidio culposo en accidente de tránsito,NO,Homicidio culposo,2019-06-07
+18,Corrientes,PXT-19476/19,PXT-19476/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-04,CP.089.0.00.00.00,Lesiones leves,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19475/19,PXT-19475/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-14,CP.119.0.01.00.00,Abuso sexual,NO,Abuso sexual,2019-06-07
+18,Corrientes,PXT-19474/19,PXT-19474/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-14,INFRACCION A LA LEY Nro. 5019,Infraccion a la Ley nro.5019,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19473/19,PXT-19473/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-14,INCUMPLIMIENTO DE ASISTENCIA FAMILIAR. LEY 13944,Incumplimiento de asistencia familiar. Ley 13944,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19472/19,PXT-19472/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-15,2019-03-15,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19471/19,PXT-19471/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-02-08,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19470/19,PXT-19470/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-03-13,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19469/19,PXT-19469/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-03-13,INCUMPLIMIENTO DE LOS DEBERES DE ASISTENCIA FLIAR.,Incumplimiento de los deberes de asistencia fliar.,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19468/19,PXT-19468/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-01-18,CP.181.0.00.00.00,Usurpación,NO,Usurpación,2019-06-07
+18,Corrientes,PXT-19467/19,PXT-19467/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-03-13,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19466/19,PXT-19466/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-03-14,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19465/19,PXT-19465/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-03-11,CP.162.0.00.00.00,Hurto simple,NO,Hurto,2019-06-07
+18,Corrientes,PXT-19464/19,PXT-19464/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-14,2019-03-13,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19463/19,PXT-19463/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-12,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19462/19,PXT-19462/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-12,CP.167.3.00.00.00,Abigeato,NO,Abigeato,2019-06-07
+18,Corrientes,PXT-19461/19,PXT-19461/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-12,CP.163.0.00.01.00,"Hurto de productos separados del suelo o de máquinas, instrumentos de trabajo, etc.",NO,Hurto,2019-06-07
+18,Corrientes,PXT-19460/19,PXT-19460/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-12,IMPEDIMENTO DE CONTACTO DE MENOR CON PROGENITOR NO CONVIVIR,Impedimento de contacto de menor con progenitor no convivir,NO,Sin clasificar,2019-06-07
+18,Corrientes,PXT-19459/19,PXT-19459/19,5,Santo Tomé-Virasoro-Ituzaingó.,5FI101,FISC. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-13,DENUNCIA,Denuncia,NO,Sin informar,2019-06-07
+18,Corrientes,PXT-19458/19,PXT-19458/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-08,CP.164.0.00.00.00,Robo simple,NO,Robo,2019-06-07
+18,Corrientes,PXT-19457/19,PXT-19457/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-12,CP.149.2.01.00.01,Amenazas,NO,Amenazas,2019-06-07
+18,Corrientes,PXT-19456/19,PXT-19456/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2019-03-12,CP.092.0.00.01.01,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-06-07
+18,Corrientes,PXT-19455/19,PXT-19455/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-13,2018-11-11,CP.119.0.01.00.00,Abuso sexual,NO,Abuso sexual,2019-06-07
+18,Corrientes,PXT-19454/19,PXT-19454/19,5,Santo Tomé-Virasoro-Ituzaingó.,5P1101,JUZG. DE INST. Y CORRECCIONAL,2019-03-12,2019-03-11,CP.119.0.05.01.00,Abuso sexual agravado por daño en la salud física o mental de la víctima,NO,Abuso sexual,2019-06-07
+26,Chubut,265/13555,4/115727,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-02,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13556,4/115728,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-02,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13556,4/115728,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-02,,297,violación de domicilio,NO,Violación de domicilio,2022-04-11
+26,Chubut,265/13557,4/115729,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-02,,314,robo simple,NO,Robo,2022-04-11
+26,Chubut,265/13558,4/115731,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-02,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13559,4/111425,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-05,,,,,Sin informar,2022-04-11
+26,Chubut,265/13560,4/115842,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-05,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13560,4/115842,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-05,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13561,4/115843,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-05,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13562,4/112882,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-05,,,,,Sin informar,2022-04-11
+26,Chubut,265/13563,4/115870,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-07,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13563,4/115870,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-07,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13564,4/115894,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-07,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13565,4/115925,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-10,,1,Investigación para la determinación del delito,NO,Sin informar,2022-04-11
+26,Chubut,265/13565,4/115925,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-10,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13566,4/115915,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-10,,317,"robo con armas, o en despoblado y en banda",NO,Robo,2022-04-11
+26,Chubut,265/13566,4/115915,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-10,,321,robo agravado,NO,Robo,2022-04-11
+26,Chubut,265/13567,4/115955,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-12,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13568,4/115957,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-12,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13569,4/116027,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-13,,321,robo agravado,SI,Robo,2022-04-11
+26,Chubut,265/13570,4/115954,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-13,,200,homicidio simple,SI,Homicidio doloso,2022-04-11
+26,Chubut,265/13571,4/116042,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-14,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13572,4/116043,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-14,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13573,4/116065,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-15,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13574,4/116066,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-15,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13574,4/116066,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-15,,319,robo en lugar poblado y en banda,SI,Robo,2022-04-11
+26,Chubut,265/13575,4/116070,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13576,4/116072,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13577,4/116071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13577,4/116071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13577,4/116071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,242,abuso sexual simple,NO,Abuso sexual,2022-04-11
+26,Chubut,265/13577,4/116071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13577,4/116071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,297,violación de domicilio,NO,Violación de domicilio,2022-04-11
+26,Chubut,265/13577,4/116071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13578,4/116068,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13579,4/116073,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,317,"robo con armas, o en despoblado y en banda",SI,Robo,2022-04-11
+26,Chubut,265/13579,4/116073,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,319,robo en lugar poblado y en banda,SI,Robo,2022-04-11
+26,Chubut,265/13580,4/116069,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13580,4/116069,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13581,4/116075,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-17,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13582,4/116110,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-19,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13583,4/116125,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-19,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13583,4/116125,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-19,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13584,4/116150,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-20,,515,encubrimiento / receptación de cosas sospechosas,NO,Encubrimiento,2022-04-11
+26,Chubut,265/13585,4/116172,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-21,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13586,4/116204,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-22,,1,Investigación para la determinación del delito,NO,Sin informar,2022-04-11
+26,Chubut,265/13587,4/116205,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-22,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13588,4/116206,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13588,4/116206,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,297,violación de domicilio,NO,Violación de domicilio,2022-04-11
+26,Chubut,265/13588,4/116206,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13589,4/116207,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13590,4/116208,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13590,4/116208,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,297,violación de domicilio,NO,Violación de domicilio,2022-04-11
+26,Chubut,265/13590,4/116208,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13591,4/116209,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-24,,321,robo agravado,NO,Robo,2022-04-11
+26,Chubut,265/13592,4/116248,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-25,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13593,4/111396,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-25,,,,,Sin informar,2022-04-11
+26,Chubut,265/13594,4/106541,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-27,,,,,Sin informar,2022-04-11
+26,Chubut,265/13595,4/116314,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-27,,1,Investigación para la determinación del delito,NO,Sin informar,2022-04-11
+26,Chubut,265/13596,4/115577,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-28,,,,,Sin informar,2022-04-11
+26,Chubut,265/13597,4/116330,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-28,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13598,4/116329,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-28,,312,hurto agravado,NO,Hurto,2022-04-11
+26,Chubut,265/13599,4/116332,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-28,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13600,,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-28,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13601,4/116352,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13601,4/116352,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13602,4/116351,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13602,4/116351,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,384,portación de arma de fuego sin autorización,NO,Sin clasificar,2022-04-11
+26,Chubut,265/13603,4/116353,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,297,violación de domicilio,NO,Violación de domicilio,2022-04-11
+26,Chubut,265/13604,4/116355,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13605,4/116365,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-01-31,,297,violación de domicilio,NO,Violación de domicilio,2022-04-11
+26,Chubut,265/13606,4/115137,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-01,,,,,Sin informar,2022-04-11
+26,Chubut,265/13607,4/116421,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-02,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13608,4/116410,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-02,,1,Investigación para la determinación del delito,NO,Sin informar,2022-04-11
+26,Chubut,265/13609,4/114157,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-02,,,,,Sin informar,2022-04-11
+26,Chubut,265/13610,4/116445,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-03,,,,,Sin informar,2022-04-11
+26,Chubut,265/13611,4/108098,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-03,,512,encubrimiento / receptación de cosas,NO,Encubrimiento,2022-04-11
+26,Chubut,265/13612,4/116470,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-04,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13612,4/116470,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-04,,213,lesiones graves,NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13613,4/116479,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-04,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13614,4/116486,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-05,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13615,4/116487,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-05,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13615,4/116487,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-05,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13616,4/116491,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-07,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13617,4/116493,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-07,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13618,4/116507,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-07,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13619,4/116494,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-07,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13620,4/115095,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-07,,,,,Sin informar,2022-04-11
+26,Chubut,265/13621,4/116516,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-07,,311,hurto simple,NO,Hurto,2022-04-11
+26,Chubut,265/13622,4/116518,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-08,,1,Investigación para la determinación del delito,NO,Sin informar,2022-04-11
+26,Chubut,265/13623,4/116505,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-08,,200,homicidio simple,SI,Homicidio doloso,2022-04-11
+26,Chubut,265/13624,4/110096,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-08,,,,,Sin informar,2022-04-11
+26,Chubut,265/13625,4/116533,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-10,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13626,4/116562,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-10,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13627,4/116532,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-10,,200,homicidio simple,SI,Homicidio doloso,2022-04-11
+26,Chubut,265/13627,4/116532,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-10,,201,homicidio calificado,SI,Homicidio doloso,2022-04-11
+26,Chubut,265/13628,4/115912,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-10,,,,,Sin informar,2022-04-11
+26,Chubut,265/13629,4/116583,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-11,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13630,4/116584,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-11,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13631,4/105815,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-11,,,,,Sin informar,2022-04-11
+26,Chubut,265/13632,4/116091,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-11,,,,,Sin informar,2022-04-11
+26,Chubut,265/13633,4/116609,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-13,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13634,4/116610,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-14,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13635,4/111755,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-14,,,,,Sin informar,2022-04-11
+26,Chubut,265/13636,4/113746,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-14,,,,,Sin informar,2022-04-11
+26,Chubut,265/13637,4/114181,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-15,,,,,Sin informar,2022-04-11
+26,Chubut,265/13638,4/116671,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-16,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13639,4/115673,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-16,,,,,Sin informar,2022-04-11
+26,Chubut,265/13640,4/116674,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-16,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13640,4/116674,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-16,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13640,4/116674,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-16,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13641,4/116563,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-17,,,,,Sin informar,2022-04-11
+26,Chubut,265/13642,4/116710,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-17,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13643,4/116714,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-17,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13644,4/116715,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-17,,311,hurto simple,NO,Hurto,2022-04-11
+26,Chubut,265/13644,4/116715,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-17,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13645,4/115752,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-17,,,,,Sin informar,2022-04-11
+26,Chubut,265/13646,4/116789,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-19,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13646,4/116789,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-19,,456,atentado a la autoridad agravado / coacción contra el funcionario público agravada,NO,Coacción,2022-04-11
+26,Chubut,265/13646,4/116789,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-19,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13647,4/116788,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-19,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13648,4/116797,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-21,,369,daño simple / sabotaje informático,NO,Daños,2022-04-11
+26,Chubut,265/13649,,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-21,,,,,Sin informar,2022-04-11
+26,Chubut,265/13650,4/116877,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-24,,314,robo simple,SI,Robo,2022-04-11
+26,Chubut,265/13651,4/116561,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-25,,,,,Sin informar,2022-04-11
+26,Chubut,265/13652,4/116940,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-26,,201,homicidio calificado,NO,Homicidio doloso,2022-04-11
+26,Chubut,265/13652,4/116940,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-26,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13652,4/116940,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-26,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13653,4/116941,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-26,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13654,4/116943,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-27,,,,,Sin informar,2022-04-11
+26,Chubut,265/13655,4/116944,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-02-28,,,,,Sin informar,2022-04-11
+26,Chubut,265/13656,4/115782,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-03,,,,,Sin informar,2022-04-11
+26,Chubut,265/13657,4/117006,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-04,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13658,4/117005,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-04,,201,homicidio calificado,SI,Homicidio doloso,2022-04-11
+26,Chubut,265/13659,4/117011,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-04,,311,hurto simple,SI,Hurto,2022-04-11
+26,Chubut,265/13660,4/117071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13660,4/117071,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13661,4/117073,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,201,homicidio calificado,NO,Homicidio doloso,2022-04-11
+26,Chubut,265/13661,4/117073,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,212,lesiones leves (dolosas),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13661,4/117073,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,215,lesiones calificadas (agravantes),NO,Lesiones dolosas,2022-04-11
+26,Chubut,265/13661,4/117073,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,294,amenazas simples /agravadas,NO,Amenazas,2022-04-11
+26,Chubut,265/13662,4/117075,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-06,,459,resistencia a la autoridad / desobediencia,NO,Resistencia o desobediencia a un funcionario público,2022-04-11
+26,Chubut,265/13663,4/117072,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-07,,200,homicidio simple,NO,Homicidio doloso,2022-04-11
+26,Chubut,265/13664,4/117085,5,Comodoro Rivadavia,265,CR - Oficina Judicial,2022-03-07,,317,"robo con armas, o en despoblado y en banda",SI,Robo,2022-04-11
+42,La Pampa,185023,185023,1,I Circunscripcion - Santa Rosa,1023,,2019-01-01,2019-01-01,591,Hurto agravado,NO,Hurto,2019-08-02
+42,La Pampa,185031,185031,2,II Circunscripcion - General Pico,1100,,2019-01-02,2019-01-01,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,185037,185037,1,I Circunscripcion - Santa Rosa,1025,,2019-01-02,2019-01-02,648,Violencia contra las mujeres,NO,Sin clasificar,2019-08-02
+42,La Pampa,185042,185042,1,I Circunscripcion - Santa Rosa,1024,,2019-01-02,2019-01-01,622,Lesiones graves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185050,185050,1,I Circunscripcion - Santa Rosa,1023,,2019-01-02,2019-01-02,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185066,185066,2,II Circunscripcion - General Pico,1099,,2019-01-02,2019-01-01,500,Homicidio culposo,NO,Homicidio culposo,2019-08-02
+42,La Pampa,185091,185091,2,II Circunscripcion - General Pico,na,,2019-01-02,2018-12-21,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185101,185101,2,II Circunscripcion - General Pico,1100,,2019-01-03,2019-01-01,632,Amenazas agravadas,NO,Amenazas,2019-08-02
+42,La Pampa,185157,185157,1,I Circunscripcion - Santa Rosa,1023,,2019-01-04,2019-01-02,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185157,185157,1,I Circunscripcion - Santa Rosa,1023,,2019-01-04,2019-01-02,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185169,185169,2,II Circunscripcion - General Pico,1100,,2019-01-04,2019-01-02,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185178,185178,2,II Circunscripcion - General Pico,na,,2019-01-04,2019-01-03,647,Protección de los animales,NO,Sin clasificar,2019-08-02
+42,La Pampa,185200,185200,1,I Circunscripcion - Santa Rosa,1025,,2019-01-04,2019-01-04,656,Investigación Preliminar,NO,Sin informar,2019-08-02
+42,La Pampa,185200,185200,1,I Circunscripcion - Santa Rosa,1025,,2019-01-04,2019-01-04,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185200,185200,1,I Circunscripcion - Santa Rosa,1025,,2019-01-04,2019-01-04,648,Violencia contra las mujeres,NO,Sin clasificar,2019-08-02
+42,La Pampa,185202,185202,1,I Circunscripcion - Santa Rosa,1024,,2019-01-04,2019-01-04,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185225,185225,3,III Circunscripcion - General Acha,na,,2019-01-05,2019-01-05,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185225,185225,3,III Circunscripcion - General Acha,na,,2019-01-05,2019-01-05,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,185228,185228,3,III Circunscripcion - General Acha,na,,2019-01-05,2019-01-05,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185228,185228,3,III Circunscripcion - General Acha,na,,2019-01-05,2019-01-05,660,Atentado contra la autoridad,NO,Sin clasificar,2019-08-02
+42,La Pampa,185228,185228,3,III Circunscripcion - General Acha,na,,2019-01-05,2019-01-05,659,Resistencia o Desobediencia a la autoridad,NO,Resistencia o desobediencia a un funcionario público,2019-08-02
+42,La Pampa,185229,185229,1,I Circunscripcion - Santa Rosa,1023,,2019-01-05,2019-01-05,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185232,185232,4,IV Circunscripcion - Victorica,na,,2019-01-07,2019-01-06,609,Exhibiciones obscenas,NO,Exhibiciones obscenas,2019-08-02
+42,La Pampa,185234,185234,2,II Circunscripcion - General Pico,na,,2019-01-07,2019-01-06,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185237,185237,4,IV Circunscripcion - Victorica,na,,2019-01-07,2019-01-07,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185238,185238,2,II Circunscripcion - General Pico,na,,2019-01-07,2019-01-06,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185316,185316,1,I Circunscripcion - Santa Rosa,1025,,2019-01-08,2019-01-08,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185323,185323,2,II Circunscripcion - General Pico,na,,2019-01-08,2019-01-01,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185328,185328,1,I Circunscripcion - Santa Rosa,1024,,2019-01-08,2019-01-07,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185369,185369,3,III Circunscripcion - General Acha,na,,2019-01-08,2019-01-08,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185369,185369,3,III Circunscripcion - General Acha,na,,2019-01-08,2019-01-08,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185370,185370,2,II Circunscripcion - General Pico,1100,,2019-01-08,2019-01-08,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,185380,185380,3,III Circunscripcion - General Acha,na,,2019-01-08,2019-01-08,632,Amenazas agravadas,NO,Amenazas,2019-08-02
+42,La Pampa,185381,185381,1,I Circunscripcion - Santa Rosa,1025,,2019-01-08,2019-01-08,714,grooming,NO,Grooming,2019-08-02
+42,La Pampa,185388,185388,2,II Circunscripcion - General Pico,1100,,2019-01-09,2019-01-08,632,Amenazas agravadas,NO,Amenazas,2019-08-02
+42,La Pampa,185388,185388,2,II Circunscripcion - General Pico,1100,,2019-01-09,2019-01-08,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185394,185394,3,III Circunscripcion - General Acha,na,,2019-01-09,2019-01-08,604,Sustracción y/o ocultamiento de personas,NO,Sin clasificar,2019-08-02
+42,La Pampa,185394,185394,3,III Circunscripcion - General Acha,na,,2019-01-09,2019-01-08,662,Abuso Sexual Agravado Art. 120,NO,Abuso sexual de menores,2019-08-02
+42,La Pampa,185396,185396,1,I Circunscripcion - Santa Rosa,1023,,2019-01-09,2019-01-09,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185398,185398,2,II Circunscripcion - General Pico,na,,2019-01-09,2018-12-22,538,Estafas y otras defraudaciones,NO,Estafa y otras defraudaciones,2019-08-02
+42,La Pampa,185401,185401,1,I Circunscripcion - Santa Rosa,1025,,2019-01-09,2019-01-09,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185435,185435,2,II Circunscripcion - General Pico,na,,2019-01-09,2018-12-21,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185456,185456,1,I Circunscripcion - Santa Rosa,1023,,2019-01-09,2019-01-09,654,Conservación de fauna,NO,Sin clasificar,2019-08-02
+42,La Pampa,185472,185472,2,II Circunscripcion - General Pico,na,,2019-01-10,2019-01-09,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185472,185472,2,II Circunscripcion - General Pico,na,,2019-01-10,2019-01-09,660,Atentado contra la autoridad,NO,Sin clasificar,2019-08-02
+42,La Pampa,185473,185473,3,III Circunscripcion - General Acha,na,,2019-01-10,2019-01-09,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185516,185516,1,I Circunscripcion - Santa Rosa,1021,,2019-01-10,2019-01-10,538,Estafas y otras defraudaciones,NO,Estafa y otras defraudaciones,2019-08-02
+42,La Pampa,185516,185516,1,I Circunscripcion - Santa Rosa,1021,,2019-01-10,2019-01-10,657,Extravío de cheque,NO,Sin clasificar,2019-08-02
+42,La Pampa,185525,185525,2,II Circunscripcion - General Pico,1103,,2019-01-10,2019-01-10,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185538,185538,2,II Circunscripcion - General Pico,1103,,2019-01-10,2018-12-24,570,Encubrimiento y Lavado de Activos de origen delictivo,NO,Encubrimiento,2019-08-02
+42,La Pampa,185539,185539,1,I Circunscripcion - Santa Rosa,1025,,2019-01-10,2019-01-10,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185554,185554,1,I Circunscripcion - Santa Rosa,1025,,2019-01-11,2019-01-08,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185554,185554,1,I Circunscripcion - Santa Rosa,1025,,2019-01-11,2019-01-08,648,Violencia contra las mujeres,NO,Sin clasificar,2019-08-02
+42,La Pampa,185568,185568,1,I Circunscripcion - Santa Rosa,1025,,2019-01-11,2019-01-02,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185577,185577,2,II Circunscripcion - General Pico,1100,,2019-01-11,2019-01-09,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185605,185605,2,II Circunscripcion - General Pico,1100,,2019-01-12,2019-01-11,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185610,185610,2,II Circunscripcion - General Pico,1100,,2019-01-14,2019-01-12,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185610,185610,2,II Circunscripcion - General Pico,1100,,2019-01-14,2019-01-12,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185614,185614,3,III Circunscripcion - General Acha,na,,2019-01-14,2019-01-12,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185614,185614,3,III Circunscripcion - General Acha,na,,2019-01-14,2019-01-12,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185615,185615,2,II Circunscripcion - General Pico,1099,,2019-01-14,2019-01-13,632,Amenazas agravadas,NO,Amenazas,2019-08-02
+42,La Pampa,185615,185615,2,II Circunscripcion - General Pico,1099,,2019-01-14,2019-01-13,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185615,185615,2,II Circunscripcion - General Pico,1099,,2019-01-14,2019-01-13,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185627,185627,1,I Circunscripcion - Santa Rosa,1023,,2019-01-14,2019-01-13,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185635,185635,1,I Circunscripcion - Santa Rosa,1025,,2019-01-14,2019-01-14,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185635,185635,1,I Circunscripcion - Santa Rosa,1025,,2019-01-14,2019-01-14,648,Violencia contra las mujeres,NO,Sin clasificar,2019-08-02
+42,La Pampa,185643,185643,1,I Circunscripcion - Santa Rosa,1023,,2019-01-14,2019-01-14,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185651,185651,3,III Circunscripcion - General Acha,na,,2019-01-14,2019-01-11,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185658,185658,1,I Circunscripcion - Santa Rosa,1025,,2019-01-14,2019-01-14,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185680,185680,3,III Circunscripcion - General Acha,na,,2019-01-15,2019-01-15,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185680,185680,3,III Circunscripcion - General Acha,na,,2019-01-15,2019-01-15,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185719,185719,1,I Circunscripcion - Santa Rosa,1023,,2019-01-15,2019-01-15,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185730,185730,1,I Circunscripcion - Santa Rosa,1024,,2019-01-16,2019-01-15,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185737,185737,3,III Circunscripcion - General Acha,na,,2019-01-16,2019-01-15,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185740,185740,1,I Circunscripcion - Santa Rosa,1023,,2019-01-16,2019-01-15,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,185746,185746,2,II Circunscripcion - General Pico,na,,2019-01-16,2019-01-15,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185747,185747,1,I Circunscripcion - Santa Rosa,1025,,2019-01-16,2019-01-16,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,185752,185752,3,III Circunscripcion - General Acha,na,,2019-01-17,2019-01-16,591,Hurto agravado,NO,Hurto,2019-08-02
+42,La Pampa,185756,185756,1,I Circunscripcion - Santa Rosa,1025,,2019-01-17,2019-01-17,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185756,185756,1,I Circunscripcion - Santa Rosa,1025,,2019-01-17,2019-01-17,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185756,185756,1,I Circunscripcion - Santa Rosa,1025,,2019-01-17,2019-01-17,648,Violencia contra las mujeres,NO,Sin clasificar,2019-08-02
+42,La Pampa,185756,185756,1,I Circunscripcion - Santa Rosa,1025,,2019-01-17,2019-01-17,610,Violación de domicilio,NO,Violación de domicilio,2019-08-02
+42,La Pampa,185757,185757,2,II Circunscripcion - General Pico,1099,,2019-01-17,2018-01-16,661,Desobediencia judicial,NO,Resistencia o desobediencia a un funcionario público,2019-08-02
+42,La Pampa,185757,185757,2,II Circunscripcion - General Pico,1099,,2019-01-17,2018-01-16,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185757,185757,2,II Circunscripcion - General Pico,1099,,2019-01-17,2018-01-16,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185848,185848,1,I Circunscripcion - Santa Rosa,1023,,2019-01-18,2019-01-17,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185848,185848,1,I Circunscripcion - Santa Rosa,1023,,2019-01-18,2019-01-17,591,Hurto agravado,NO,Hurto,2019-08-02
+42,La Pampa,185848,185848,1,I Circunscripcion - Santa Rosa,1023,,2019-01-18,2019-01-17,659,Resistencia o Desobediencia a la autoridad,NO,Resistencia o desobediencia a un funcionario público,2019-08-02
+42,La Pampa,185848,185848,1,I Circunscripcion - Santa Rosa,1023,,2019-01-18,2019-01-17,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185848,185848,1,I Circunscripcion - Santa Rosa,1023,,2019-01-18,2019-01-17,570,Encubrimiento y Lavado de Activos de origen delictivo,NO,Encubrimiento,2019-08-02
+42,La Pampa,185848,185848,1,I Circunscripcion - Santa Rosa,1023,,2019-01-18,2019-01-17,590,Hurto simple,SI,Hurto,2019-08-02
+42,La Pampa,185871,185871,2,II Circunscripcion - General Pico,1103,,2019-01-19,2019-01-19,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,185874,185874,2,II Circunscripcion - General Pico,1099,,2019-01-20,2019-01-20,622,Lesiones graves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185876,185876,2,II Circunscripcion - General Pico,1100,,2019-01-21,2019-01-20,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,185876,185876,2,II Circunscripcion - General Pico,1100,,2019-01-21,2019-01-20,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,185905,185905,2,II Circunscripcion - General Pico,1100,,2019-01-21,2019-01-21,656,Investigación Preliminar,NO,Sin informar,2019-08-02
+42,La Pampa,185940,185940,2,II Circunscripcion - General Pico,1100,,2019-01-21,2019-01-20,632,Amenazas agravadas,NO,Amenazas,2019-08-02
+42,La Pampa,185940,185940,2,II Circunscripcion - General Pico,1100,,2019-01-21,2019-01-20,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,185941,185941,2,II Circunscripcion - General Pico,1100,,2019-01-22,2019-01-20,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,185942,185942,1,I Circunscripcion - Santa Rosa,1023,,2019-01-22,2019-01-22,592,Robo agravado,NO,Robo,2019-08-02
+42,La Pampa,185948,185948,3,III Circunscripcion - General Acha,na,,2019-01-22,2019-01-21,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,186011,186011,2,II Circunscripcion - General Pico,1100,,2019-01-23,2019-01-21,609,Exhibiciones obscenas,NO,Exhibiciones obscenas,2019-08-02
+42,La Pampa,186012,186012,2,II Circunscripcion - General Pico,1100,,2019-01-23,2019-01-22,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186015,186015,2,II Circunscripcion - General Pico,1100,,2019-01-23,2019-01-21,661,Desobediencia judicial,NO,Resistencia o desobediencia a un funcionario público,2019-08-02
+42,La Pampa,186015,186015,2,II Circunscripcion - General Pico,1100,,2019-01-23,2019-01-21,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,186028,186028,1,I Circunscripcion - Santa Rosa,1025,,2019-01-23,2019-01-23,656,Investigación Preliminar,NO,Sin informar,2019-08-02
+42,La Pampa,186053,186053,1,I Circunscripcion - Santa Rosa,1023,,2019-01-23,2019-01-23,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,186072,186072,4,IV Circunscripcion - Victorica,na,,2019-01-24,2019-01-22,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186072,186072,4,IV Circunscripcion - Victorica,na,,2019-01-24,2019-01-22,648,Violencia contra las mujeres,NO,Sin clasificar,2019-08-02
+42,La Pampa,186073,186073,4,IV Circunscripcion - Victorica,na,,2019-01-24,2019-01-23,649,Violencia familiar,NO,Sin clasificar,2019-08-02
+42,La Pampa,186073,186073,4,IV Circunscripcion - Victorica,na,,2019-01-24,2019-01-23,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186079,186079,2,II Circunscripcion - General Pico,1100,,2019-01-24,2019-01-22,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186079,186079,2,II Circunscripcion - General Pico,1100,,2019-01-24,2019-01-22,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,186084,186084,2,II Circunscripcion - General Pico,1100,,2019-01-24,2019-01-24,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186084,186084,2,II Circunscripcion - General Pico,1100,,2019-01-24,2019-01-24,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,186103,186103,2,II Circunscripcion - General Pico,na,,2019-01-24,2018-12-11,635,Robo simple,NO,Robo,2019-08-02
+42,La Pampa,186103,186103,2,II Circunscripcion - General Pico,na,,2019-01-24,2018-12-11,592,Robo agravado,NO,Robo,2019-08-02
+42,La Pampa,186105,186105,1,I Circunscripcion - Santa Rosa,1025,,2019-01-24,2019-01-24,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,186106,186106,1,I Circunscripcion - Santa Rosa,1024,,2019-01-24,2019-01-22,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186127,186127,2,II Circunscripcion - General Pico,1103,,2019-01-24,2018-01-06,592,Robo agravado,NO,Robo,2019-08-02
+42,La Pampa,186144,186144,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-24,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,186144,186144,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-24,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186144,186144,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-24,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186145,186145,1,I Circunscripcion - Santa Rosa,1023,,2019-01-25,2019-01-25,591,Hurto agravado,SI,Hurto,2019-08-02
+42,La Pampa,186145,186145,1,I Circunscripcion - Santa Rosa,1023,,2019-01-25,2019-01-25,592,Robo agravado,NO,Robo,2019-08-02
+42,La Pampa,186145,186145,1,I Circunscripcion - Santa Rosa,1023,,2019-01-25,2019-01-25,590,Hurto simple,NO,Hurto,2019-08-02
+42,La Pampa,186147,186147,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-23,631,Amenazas simples,NO,Amenazas,2019-08-02
+42,La Pampa,186147,186147,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-23,514,Lesiones leves,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186147,186147,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-23,659,Resistencia o Desobediencia a la autoridad,NO,Resistencia o desobediencia a un funcionario público,2019-08-02
+42,La Pampa,186147,186147,1,I Circunscripcion - Santa Rosa,1025,,2019-01-25,2019-01-23,660,Atentado contra la autoridad,NO,Sin clasificar,2019-08-02
+42,La Pampa,186173,186173,3,III Circunscripcion - General Acha,na,,2019-01-26,2019-01-26,663,Abuso Sexual Agravado Art. 119,SI,Abuso sexual,2019-08-02
+42,La Pampa,186173,186173,3,III Circunscripcion - General Acha,na,,2019-01-26,2019-01-26,610,Violación de domicilio,NO,Violación de domicilio,2019-08-02
+42,La Pampa,186174,186174,1,I Circunscripcion - Santa Rosa,1024,,2019-01-26,2019-01-26,500,Homicidio culposo,NO,Homicidio culposo,2019-08-02
+42,La Pampa,186175,186175,3,III Circunscripcion - General Acha,na,,2019-01-26,2019-01-23,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,186175,186175,3,III Circunscripcion - General Acha,na,,2019-01-26,2019-01-23,610,Violación de domicilio,NO,Violación de domicilio,2019-08-02
+42,La Pampa,186179,186179,2,II Circunscripcion - General Pico,1100,,2019-01-28,2019-01-01,624,Abuso sexual simple,NO,Abuso sexual,2019-08-02
+42,La Pampa,186218,186218,2,II Circunscripcion - General Pico,na,,2019-01-28,2019-01-28,538,Estafas y otras defraudaciones,NO,Estafa y otras defraudaciones,2019-08-02
+42,La Pampa,186252,186252,3,III Circunscripcion - General Acha,na,,2019-01-28,2019-01-28,621,Lesiones leves agravadas por el vínculo,NO,Lesiones dolosas,2019-08-02
+42,La Pampa,186253,186253,2,II Circunscripcion - General Pico,1103,,2019-01-29,2019-01-27,592,Robo agravado,NO,Robo,2019-08-02
+42,La Pampa,186338,186338,3,III Circunscripcion - General Acha,na,,2019-01-29,2019-01-27,663,Abuso Sexual Agravado Art. 119,NO,Abuso sexual,2019-08-02
+42,La Pampa,186344,186344,1,I Circunscripcion - Santa Rosa,1023,,2019-01-30,2019-01-17,639,Daño simple,NO,Daños,2019-08-02
+42,La Pampa,186380,186380,1,I Circunscripcion - Santa Rosa,1025,,2019-01-30,2019-01-30,714,grooming,NO,Grooming,2019-08-02
+42,La Pampa,186397,186397,3,III Circunscripcion - General Acha,na,,2019-01-30,2019-01-26,656,Investigación Preliminar,NO,Sin informar,2019-08-02
+42,La Pampa,186397,186397,3,III Circunscripcion - General Acha,na,,2019-01-30,2019-01-26,639,Daño simple,NO,Daños,2019-08-02
+62,Río Negro,MPF-SA-00005-2018,MPF-SA-00005-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-01,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-00007-2018,MPF-SA-00007-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-04,,CP.172.0.00.00.00,Estafa,SD,Estafa y otras defraudaciones,2019-06-06
+62,Río Negro,MPF-SA-00007-2018,MPF-SA-00007-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-04,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00008-2018,MPF-SA-00008-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-04,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00014-2018,MPF-SA-00014-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-08,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00016-2018,MPF-SA-00016-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-09,,CP.149.2.01.00.01,Amenazas,SD,Amenazas,2019-06-06
+62,Río Negro,MPF-SA-00016-2018,MPF-SA-00016-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-09,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-SA-00030-2018,MPF-SA-00030-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-06,,CP.084.0.01.00.00,Homicidio culposo,SD,Homicidio culposo,2019-06-06
+62,Río Negro,MPF-SA-00044-2018,MPF-SA-00044-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-24,,22421.000.0.00.00.00,Conservación de la fauna,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-SA-00046-2018,MPF-SA-00046-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-23,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00051-2018,MPF-SA-00051-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-03-28,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-00063-2018,MPF-SA-00063-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-26,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00094-2018,MPF-SA-00094-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-18,,CP.292.0.01.00.01,Falsificación o adulteración de instrumentos públicos,SD,Falsificación,2019-06-06
+62,Río Negro,MPF-SA-00098-2018,MPF-SA-00098-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-02,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00100-2018,MPF-SA-00100-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-02,,CP.240.0.00.00.00,Desobediencia a la autoridad,SD,Resistencia o desobediencia a un funcionario público,2019-06-06
+62,Río Negro,MPF-SA-00112-2018,MPF-SA-00112-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-07,,CP.090.0.00.00.00,Lesiones graves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00114-2018,MPF-SA-00114-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-07,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-SA-00122-2018,MPF-SA-00122-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-09,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00125-2018,MPF-SA-00125-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-09,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00128-2018,MPF-SA-00128-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-21,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00138-2018,MPF-SA-00138-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-14,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-00179-2018,MPF-SA-00179-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-23,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00179-2018,MPF-SA-00179-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-23,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00204-2018,MPF-SA-00204-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-13,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-00208-2018,MPF-SA-00208-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-28,,CP.181.0.00.00.00,Usurpación,SD,Usurpación,2019-06-06
+62,Río Negro,MPF-SA-00210-2018,MPF-SA-00210-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-28,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-00213-2018,MPF-SA-00213-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-28,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00214-2018,MPF-SA-00214-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-28,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00215-2018,MPF-SA-00215-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-28,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00298-2018,MPF-SA-00298-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-25,,CP.119.0.05.02.00,Abuso sexual agravado por el vínculo,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-00333-2018,MPF-SA-00333-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-01,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00347-2018,MPF-SA-00347-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-14,,CP.119.0.03.00.00,Abuso sexual con acceso carnal,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-00350-2018,MPF-SA-00350-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-06,,CP.090.0.00.00.00,Lesiones graves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00368-2018,MPF-SA-00368-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-12,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00396-2018,MPF-SA-00396-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-25,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00405-2018,MPF-SA-00405-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-03,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00438-2018,MPF-SA-00438-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-05,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-00453-2018,MPF-SA-00453-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-10,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00453-2018,MPF-SA-00453-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-10,,CP.166.0.01.02.00,Robo con arma o en despoblado y en banda,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00461-2018,MPF-SA-00461-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-01,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-00486-2018,MPF-SA-00486-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-22,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00521-2018,MPF-SA-00521-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-21,,CP.164.0.00.00.00,Robo simple,SI,Robo,2019-06-06
+62,Río Negro,MPF-SA-00526-2018,MPF-SA-00526-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-06,,CP.090.0.00.00.00,Lesiones graves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00531-2018,MPF-SA-00531-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-21,,CP.167.0.00.02.00,Robo en poblado y en banda,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00539-2018,MPF-SA-00539-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-19,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00554-2018,MPF-SA-00554-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-29,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00571-2018,MPF-SA-00571-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-31,,CP.149.2.01.00.01,Amenazas,SD,Amenazas,2019-06-06
+62,Río Negro,MPF-SA-00578-2018,MPF-SA-00578-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-04,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00585-2018,MPF-SA-00585-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-05,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00702-2018,MPF-SA-00702-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-22,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00733-2018,MPF-SA-00733-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-27,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00736-2018,MPF-SA-00736-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-26,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00746-2018,MPF-SA-00746-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-03,,CP.183.0.01.00.00,Daños de una cosa mueble o inmueble o un animal,SD,Daños,2019-06-06
+62,Río Negro,MPF-SA-00748-2018,MPF-SA-00748-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-02,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00750-2018,MPF-SA-00750-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-03,,CP.277.0.00.00.00,Encubrimiento,SD,Encubrimiento,2019-06-06
+62,Río Negro,MPF-SA-00762-2018,MPF-SA-00762-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-02,,CP.183.0.01.00.00,Daños de una cosa mueble o inmueble o un animal,SD,Daños,2019-06-06
+62,Río Negro,MPF-SA-00767-2018,MPF-SA-00767-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-22,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-SA-00824-2018,MPF-SA-00824-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-27,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00858-2018,MPF-SA-00858-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-22,,CP.089.0.00.00.00,Lesiones leves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00917-2018,MPF-SA-00917-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-12-17,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00919-2018,MPF-SA-00919-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-08-22,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00920-2018,MPF-SA-00920-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-03,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00921-2018,MPF-SA-00921-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-03,,CP.149.2.01.00.01,Amenazas,SD,Amenazas,2019-06-06
+62,Río Negro,MPF-SA-00923-2018,MPF-SA-00923-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-06,,CP.167.3.00.00.00,Abigeato,SD,Abigeato,2019-06-06
+62,Río Negro,MPF-SA-00929-2018,MPF-SA-00929-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-08-25,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00933-2018,MPF-SA-00933-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-08-27,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00943-2018,MPF-SA-00943-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-02,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-00943-2018,MPF-SA-00943-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-02,,CP.089.0.00.00.00,Lesiones leves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00965-2018,MPF-SA-00965-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-05,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00969-2018,MPF-SA-00969-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-12,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-00975-2018,MPF-SA-00975-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-13,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-00977-2018,MPF-SA-00977-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-17,,CP.149.2.01.00.01,Amenazas,SD,Amenazas,2019-06-06
+62,Río Negro,MPF-SA-00979-2018,MPF-SA-00979-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-17,,CP.089.0.00.00.00,Lesiones leves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00988-2018,MPF-SA-00988-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-05,,CP.092.0.00.00.01,Lesiones leves agravadas,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-00993-2018,MPF-SA-00993-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-21,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-01000-2018,MPF-SA-01000-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-25,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-01009-2018,MPF-SA-01009-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-04,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-01010-2018,MPF-SA-01010-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-09-27,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-SA-01019-2018,MPF-SA-01019-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-21,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-01022-2018,MPF-SA-01022-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-02,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-01036-2018,MPF-SA-01036-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-05,,22421.000.0.00.00.00,Conservación de la fauna,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-SA-01061-2018,MPF-SA-01061-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-22,,CP.149.2.01.00.01,Amenazas,SD,Amenazas,2019-06-06
+62,Río Negro,MPF-SA-01077-2018,MPF-SA-01077-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-29,,CP.183.0.01.00.00,Daños de una cosa mueble o inmueble o un animal,SD,Daños,2019-06-06
+62,Río Negro,MPF-SA-01088-2018,MPF-SA-01088-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-01,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-01109-2018,MPF-SA-01109-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-09,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-01133-2018,MPF-SA-01133-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-22,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-01137-2018,MPF-SA-01137-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-16,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-01141-2018,MPF-SA-01141-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-20,,CP.181.0.00.00.00,Usurpación,SD,Usurpación,2019-06-06
+62,Río Negro,MPF-SA-01159-2018,MPF-SA-01159-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-26,,CP.092.0.00.00.01,Lesiones leves agravadas,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-01168-2018,MPF-SA-01168-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-27,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-SA-01177-2018,MPF-SA-01177-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-11-29,,CP.167.0.00.02.00,Robo en poblado y en banda,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-01212-2018,MPF-SA-01212-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-12-12,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-SA-01217-2018,MPF-SA-01217-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-12-14,,CP.092.0.00.00.01,Lesiones leves agravadas,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-SA-01221-2018,MPF-SA-01221-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-12-19,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-SA-01229-2018,MPF-SA-01229-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-12-19,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-SA-01246-2018,MPF-SA-01246-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-12-28,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00001-2018,MPF-VI-00001-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-02,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00001-2018,MPF-VI-00001-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-02,,CP.172.0.00.00.00,Estafa,SD,Estafa y otras defraudaciones,2019-06-06
+62,Río Negro,MPF-VI-00001-2018,MPF-VI-00001-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-02,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00007-2018,MPF-VI-00007-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-01,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SI,Robo,2019-06-06
+62,Río Negro,MPF-VI-00011-2018,MPF-VI-00011-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-23,,CP.119.0.05.02.00,Abuso sexual agravado por el vínculo,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00015-2018,MPF-VI-00015-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-08,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00018-2018,MPF-VI-00018-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-03,,CP.090.0.00.00.00,Lesiones graves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-VI-00021-2018,MPF-VI-00021-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-04,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00023-2018,MPF-VI-00023-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-04,,CP.163.0.00.06.00,Hurto de vehículos,SD,Hurto,2019-06-06
+62,Río Negro,MPF-VI-00025-2018,MPF-VI-00025-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-04,,CP.277.0.00.00.00,Encubrimiento,SD,Encubrimiento,2019-06-06
+62,Río Negro,MPF-VI-00034-2017,MPF-VI-00034-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-27,,CP.119.0.02.00.00,Abuso sexual gravemente ultrajante,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00037-2018,MPF-VI-00037-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-01,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00039-2018,MPF-VI-00039-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-08,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00049-2018,MPF-VI-00049-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-08,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00050-2018,MPF-VI-00050-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-08,,CP.104.0.00.00.00,Abuso de arma,SD,Abuso de arma,2019-06-06
+62,Río Negro,MPF-VI-00051-2018,MPF-VI-00051-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-08,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-VI-00054-2017,MPF-VI-00054-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-28,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00059-2018,MPF-VI-00059-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-10,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-VI-00059-2018,MPF-VI-00059-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-10,,CP.089.0.00.00.00,Lesiones leves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-VI-00062-2018,MPF-VI-00062-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-19,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00063-2017,MPF-VI-00063-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-20,,CP.089.0.00.00.00,Lesiones leves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-VI-00064-2017,MPF-VI-00064-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-21,,CP.173.0.00.00.00,Defraudación,SD,Estafa y otras defraudaciones,2019-06-06
+62,Río Negro,MPF-VI-00064-2017,MPF-VI-00064-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-21,,CP.162.0.00.00.00,Hurto simple,SD,Hurto,2019-06-06
+62,Río Negro,MPF-VI-00064-2018,MPF-VI-00064-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-10,,CP.164.0.00.00.00,Robo simple,SI,Robo,2019-06-06
+62,Río Negro,MPF-VI-00064-2018,MPF-VI-00064-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-10,,CP.166.0.01.01.00,Robo agravado por lesiones graves o gravísimas,SI,Robo,2019-06-06
+62,Río Negro,MPF-VI-00074-2018,MPF-VI-00074-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-07-12,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00082-2018,MPF-VI-00082-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-12,,CP.089.0.00.00.00,Lesiones leves,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-VI-00082-2018,MPF-VI-00082-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-12,,CP.239.0.00.00.00,Resistencia o desobediencia a un funcionario público,SD,Resistencia o desobediencia a un funcionario público,2019-06-06
+62,Río Negro,MPF-VI-00090-2018,MPF-VI-00090-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-03,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00092-2018,MPF-VI-00092-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-01,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00116-2018,MPF-VI-00116-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-01,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00118-2018,MPF-VI-00118-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-23,,CP.125.2.00.00.00,Promoción o facilitación de la prostitución,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-VI-00125-2017,MPF-VI-00125-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-06,,CP.092.0.00.00.01,Lesiones leves agravadas,SD,Lesiones dolosas,2019-06-06
+62,Río Negro,MPF-VI-00125-2018,MPF-VI-00125-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-17,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00139-2018,MPF-VI-00139-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-18,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00151-2018,MPF-VI-00151-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-22,,CP.144.2.01.02.00,Vejaciones y apremios ilegales,SD,Apremios ilegales,2019-06-06
+62,Río Negro,MPF-VI-00153-2018,MPF-VI-00153-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-10-23,,CP.084.0.01.00.00,Homicidio culposo,SD,Homicidio culposo,2019-06-06
+62,Río Negro,MPF-VI-00155-2018,MPF-VI-00155-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-06-13,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00159-2018,MPF-VI-00159-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-24,,CP.119.0.01.00.00,Abuso sexual,SD,Abuso sexual,2019-06-06
+62,Río Negro,MPF-VI-00159-2018,MPF-VI-00159-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-24,,CP.149.2.01.00.01,Amenazas,SD,Amenazas,2019-06-06
+62,Río Negro,MPF-VI-00159-2018,MPF-VI-00159-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-24,,CP.168.0.00.00.00,Extorsión,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-VI-00170-2018,MPF-VI-00170-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-30,,CP.240.0.00.00.00,Desobediencia a la autoridad,SD,Resistencia o desobediencia a un funcionario público,2019-06-06
+62,Río Negro,MPF-VI-00181-2018,MPF-VI-00181-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-01,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00182-2017,MPF-VI-00182-2017,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-05-15,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00182-2018,MPF-VI-00182-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-04-18,,,,,Sin informar,2019-06-06
+62,Río Negro,MPF-VI-00192-2018,MPF-VI-00192-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-29,,CP.237.0.00.00.00,Atentado contra la autoridad,SD,Sin clasificar,2019-06-06
+62,Río Negro,MPF-VI-00196-2018,MPF-VI-00196-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-01-30,,CP.166.0.01.02.00,Robo con arma o en despoblado y en banda,SD,Robo,2019-06-06
+62,Río Negro,MPF-VI-00200-2018,MPF-VI-00200-2018,1,Primera Circunscripción,41,Foro de Juces y Juezas del Fuero Penal,2018-02-06,,CP.164.0.00.00.00,Robo simple,SD,Robo,2019-06-06
+94,Tierra del Fuego,15-1,,1,Distrito Judicial Norte,15,,2017-10-03,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1,,2,Distrito Judicial Sur,16,,2017-06-16,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1000,,1,Distrito Judicial Norte,15,,2017-12-04,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,15-1001,,1,Distrito Judicial Norte,15,,2017-12-05,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,16-10019,,2,Distrito Judicial Sur,16,,2017-12-01,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1002,,1,Distrito Judicial Norte,15,,2017-12-06,,5063,VIOLACIÓN DE DOMICILIO,,Violación de domicilio,2018-09-14
+94,Tierra del Fuego,16-10024,,2,Distrito Judicial Sur,16,,2017-08-10,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1003,,1,Distrito Judicial Norte,15,,2017-12-11,,5115,ROBO EN GRADO DE TENTATIVA,,Robo,2018-09-14
+94,Tierra del Fuego,15-1004,,1,Distrito Judicial Norte,15,,2017-12-15,,5089,HURTO EN GRADO DE TENTATIVA,,Hurto,2018-09-14
+94,Tierra del Fuego,15-1005,,1,Distrito Judicial Norte,15,,2017-12-19,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1005,,1,Distrito Judicial Norte,15,,2017-12-19,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,15-1006,,1,Distrito Judicial Norte,15,,2017-12-21,,5009,ABUSO DE ARMAS,,Abuso de arma,2018-09-14
+94,Tierra del Fuego,15-1007,,1,Distrito Judicial Norte,15,,2017-12-23,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,16-10078,,2,Distrito Judicial Sur,16,,2017-05-23,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1008,,1,Distrito Judicial Norte,15,,2017-12-26,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,15-1009,,1,Distrito Judicial Norte,15,,2017-12-26,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,16-101,,2,Distrito Judicial Sur,16,,2017-06-16,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1010,,1,Distrito Judicial Norte,15,,2017-12-27,,5006,DAÑOS,,Daños,2018-09-14
+94,Tierra del Fuego,16-10102,,2,Distrito Judicial Sur,16,,2017-03-10,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-10109,,2,Distrito Judicial Sur,16,,2017-11-24,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1011,,1,Distrito Judicial Norte,15,,2017-12-29,,5063,VIOLACIÓN DE DOMICILIO,,Violación de domicilio,2018-09-14
+94,Tierra del Fuego,16-10144,,2,Distrito Judicial Sur,16,,2017-11-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-10170,,2,Distrito Judicial Sur,16,,2017-11-02,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-10189,,2,Distrito Judicial Sur,16,,2017-11-24,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1027,,2,Distrito Judicial Sur,16,,2017-04-24,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1040,,1,Distrito Judicial Norte,15,,2017-06-09,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-10763,,2,Distrito Judicial Sur,16,,2017-10-27,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1089,,2,Distrito Judicial Sur,16,,2017-03-14,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1092,,2,Distrito Judicial Sur,16,,2017-02-16,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1103,,2,Distrito Judicial Sur,16,,2017-06-12,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-11080,,2,Distrito Judicial Sur,16,,2017-10-24,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-11217,,2,Distrito Judicial Sur,16,,2017-09-21,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1128,,1,Distrito Judicial Norte,15,,2017-03-20,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-11314,,2,Distrito Judicial Sur,16,,2017-04-21,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1133,,2,Distrito Judicial Sur,16,,2017-04-17,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-114,,2,Distrito Judicial Sur,16,,2017-04-20,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1150,,2,Distrito Judicial Sur,16,,2017-11-08,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-11651,,2,Distrito Judicial Sur,16,,2017-04-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1168,,2,Distrito Judicial Sur,16,,2017-10-04,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1170,,2,Distrito Judicial Sur,16,,2017-11-23,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-11732,,2,Distrito Judicial Sur,16,,2017-02-07,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-11817,,1,Distrito Judicial Norte,15,,2017-04-06,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1188,,1,Distrito Judicial Norte,15,,2017-06-22,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1192,,2,Distrito Judicial Sur,16,,2017-08-16,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1194,,2,Distrito Judicial Sur,16,,2017-08-17,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-11961,,2,Distrito Judicial Sur,16,,2017-01-27,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-12068,,2,Distrito Judicial Sur,16,,2017-06-26,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1209,,2,Distrito Judicial Sur,16,,2017-04-28,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-12131,,2,Distrito Judicial Sur,16,,2017-09-12,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1222,,2,Distrito Judicial Sur,16,,2017-03-22,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1223,,2,Distrito Judicial Sur,16,,2017-03-14,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1225,,2,Distrito Judicial Sur,16,,2017-04-11,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1226,,2,Distrito Judicial Sur,16,,2017-04-28,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1228,,2,Distrito Judicial Sur,16,,2017-05-18,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1230,,2,Distrito Judicial Sur,16,,2017-05-26,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1231,,2,Distrito Judicial Sur,16,,2017-05-26,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-12345,,2,Distrito Judicial Sur,16,,2017-10-27,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-12462,,2,Distrito Judicial Sur,16,,2017-10-04,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1253,,2,Distrito Judicial Sur,16,,2017-11-08,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1256,,2,Distrito Judicial Sur,16,,2017-10-10,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-12563,,2,Distrito Judicial Sur,16,,2017-10-30,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1257,,2,Distrito Judicial Sur,16,,2017-10-10,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1258,,2,Distrito Judicial Sur,16,,2017-06-23,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1262,,2,Distrito Judicial Sur,16,,2017-10-20,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1272,,2,Distrito Judicial Sur,16,,2017-06-06,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-12779,,2,Distrito Judicial Sur,16,,2017-05-23,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-12822,,1,Distrito Judicial Norte,15,,2017-04-10,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1286,,2,Distrito Judicial Sur,16,,2017-03-06,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1306,,1,Distrito Judicial Norte,15,,2017-05-04,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1340,,2,Distrito Judicial Sur,16,,2017-10-05,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-13524,,2,Distrito Judicial Sur,16,,2017-07-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1374,,2,Distrito Judicial Sur,16,,2017-05-11,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-13815,,2,Distrito Judicial Sur,16,,2017-04-25,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-139,,2,Distrito Judicial Sur,16,,2017-06-16,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-13924,,2,Distrito Judicial Sur,16,,2017-05-23,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-14078,,2,Distrito Judicial Sur,16,,2017-09-07,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-14156,,2,Distrito Judicial Sur,16,,2017-10-26,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-143,,2,Distrito Judicial Sur,16,,2017-11-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-14555,,2,Distrito Judicial Sur,16,,2017-10-05,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1456,,2,Distrito Judicial Sur,16,,2017-02-13,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-14569,,2,Distrito Judicial Sur,16,,2017-07-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-14621,,2,Distrito Judicial Sur,16,,2017-04-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-14658,,2,Distrito Judicial Sur,16,,2017-06-02,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1509,,2,Distrito Judicial Sur,16,,2017-05-11,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-15098,,2,Distrito Judicial Sur,16,,2017-10-02,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1516,,2,Distrito Judicial Sur,16,,2017-12-02,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-15161,,2,Distrito Judicial Sur,16,,2017-11-21,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1520,,1,Distrito Judicial Norte,15,,2017-03-03,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1524,,1,Distrito Judicial Norte,15,,2017-04-17,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-15346,,2,Distrito Judicial Sur,16,,2017-04-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1544,,2,Distrito Judicial Sur,16,,2017-10-20,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1551,,2,Distrito Judicial Sur,16,,2017-06-12,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1558,,2,Distrito Judicial Sur,16,,2017-12-12,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1564,,2,Distrito Judicial Sur,16,,2017-03-02,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-15642,,1,Distrito Judicial Norte,15,,2017-04-28,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-15768,,2,Distrito Judicial Sur,16,,2017-05-23,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1588,,2,Distrito Judicial Sur,16,,2017-02-20,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-15884,,2,Distrito Judicial Sur,16,,2017-07-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-15909,,1,Distrito Judicial Norte,15,,2017-04-17,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-15936,,2,Distrito Judicial Sur,16,,2017-04-12,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-160,,2,Distrito Judicial Sur,16,,2017-05-10,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16028,,2,Distrito Judicial Sur,16,,2017-07-07,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1616,,1,Distrito Judicial Norte,15,,2017-05-03,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-162,,2,Distrito Judicial Sur,16,,2017-09-27,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16201,,2,Distrito Judicial Sur,16,,2017-06-08,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16223,,2,Distrito Judicial Sur,16,,2017-07-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16394,,2,Distrito Judicial Sur,16,,2017-06-27,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1640,,2,Distrito Judicial Sur,16,,2017-04-20,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16434,,2,Distrito Judicial Sur,16,,2017-09-11,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16452,,2,Distrito Judicial Sur,16,,2017-05-24,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-1651,,1,Distrito Judicial Norte,15,,2017-06-15,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16542,,2,Distrito Judicial Sur,16,,2017-09-15,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16597,,2,Distrito Judicial Sur,16,,2017-10-28,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-166,,2,Distrito Judicial Sur,16,,2017-06-15,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-16605,,2,Distrito Judicial Sur,16,,2017-11-10,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-167,,2,Distrito Judicial Sur,16,,2017-05-29,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1670,,2,Distrito Judicial Sur,16,,2017-10-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1676,,2,Distrito Judicial Sur,16,,2017-08-03,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-16790,,1,Distrito Judicial Norte,15,,2017-05-04,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1681,,2,Distrito Judicial Sur,16,,2017-06-16,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,15-16926,,1,Distrito Judicial Norte,15,,2017-05-08,,5000,(NO ESPECIFICADO),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1696,,2,Distrito Judicial Sur,16,,2017-06-12,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17080,,2,Distrito Judicial Sur,16,,2017-11-29,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1721,,2,Distrito Judicial Sur,16,,2017-04-06,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1722,,2,Distrito Judicial Sur,16,,2017-02-13,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17280,,2,Distrito Judicial Sur,16,,2017-08-17,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-173,,2,Distrito Judicial Sur,16,,2017-05-30,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17316,,2,Distrito Judicial Sur,16,,2017-04-21,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17463,,2,Distrito Judicial Sur,16,,2017-04-17,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17477,,2,Distrito Judicial Sur,16,,2017-10-31,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17518,,2,Distrito Judicial Sur,16,,2017-11-30,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17542,,2,Distrito Judicial Sur,16,,2017-12-14,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17583,,2,Distrito Judicial Sur,16,,2017-09-15,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1769,,2,Distrito Judicial Sur,16,,2017-02-20,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-1770,,2,Distrito Judicial Sur,16,,2017-03-13,,6016,(S/D),,Sin informar,2018-09-14
+94,Tierra del Fuego,16-17706,,2,Distrito Judicial Sur,16,,2017-08-01,,6016,(S/D),,Sin informar,2018-09-14
