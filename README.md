@@ -30,3 +30,4 @@
 | MAR | 06-05  | 03-06  | 1050   | [Fundamentos de Estadísticas](materias/estadistica/README.md)                        |
 | MAR | 17-06  | 09-09  | 1052   | [Modelos para el Aprendizaje Automático](materias/aprendizaje-automatico/README.md)  |
 | JUE | 31-07  | 30-09  | 7103   | [Aplicaciones del Aprendizaje Profundo](materias/aprendizaje-profundo/README.md)     |
+| MAR | 23-09  | 09-12  | 7103   | [TFI](materias/aprendizaje-profundo/README.md)                                       |
